@@ -1,1306 +1,241 @@
 {
-    "status": "ok",
-    "totalResults": 16968,
-    "articles": [
-      {
-        "source": {
-          "id": "bbc-news",
-          "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Politics no longer depends on the once-great UUP",
-        "description": "Budget issues send the UUP into opposition but the executive would carry on, writes Enda McClafferty.",
-        "url": "https://www.bbc.co.uk/news/uk-northern-ireland-68911089",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DB6D/production/_133237165_afb7c9100952543e3b4bded30099c53db7aef03a.jpg",
-        "publishedAt": "2024-04-27T07:00:24Z",
-        "content": "There was a time when big meetings of the Ulster Unionist Party were political box office, with good reason.\r\nDavid Trimble versus Jeffrey Donaldson - at stake the future of power sharing at Stormont… [+3578 chars]"
-      },
-      {
-        "source": {
-          "id": "bbc-news",
-          "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "What to watch out for in the local elections",
-        "description": "The BBC's political editor breaks down what this week's local elections will mean for national politics.",
-        "url": "https://www.bbc.co.uk/news/uk-politics-68926586",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C3AE/production/_133249005_pxl_20240430_133125190.jpg",
-        "publishedAt": "2024-05-01T01:23:01Z",
-        "content": "Wherever you live in England and Wales, you have a vote on Thursday.\r\nAssuming, that is, you decide to use it and you are on the electoral roll.\r\nThere are elections for:\r\nOh, and there is a Westmins… [+5261 chars]"
-      },
-      {
-        "source": {
-          "id": "bbc-news",
-          "name": "BBC News"
-        },
-        "author": null,
-        "title": "Watch: The 12 days that ended Humza Yousaf’s time in power",
-        "description": "Look back on a turbulent time in Scottish politics which concluded with the first minister quitting his job.",
-        "url": "https://www.bbc.co.uk/news/av/uk-scotland-68921855",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13FB4/production/_133244818_p0htw0x3.jpg",
-        "publishedAt": "2024-04-29T12:27:18Z",
-        "content": "Its been a dramatic 12 days in Scottish politics. \r\nIt began with the Scottish Greens being kicked out of government after a fall-out over the decision to scrap key a climate change target - and ende… [+218 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "Matthew Fox",
-        "title": "A majority of Americans polled believe the economy is in a recession — but it isn't",
-        "description": "Inflation and politics appear to be driving the disconnect between Americans' view on the broader economy and reality.",
-        "url": "https://www.businessinsider.com/us-recession-americans-believe-economic-downturn-new-poll-unemployment-2024-5",
-        "urlToImage": "https://i.insider.com/664e230514fb5b23cc5f282c?width=1200&format=jpeg",
-        "publishedAt": "2024-05-22T18:03:48Z",
-        "content": "Silhouettes of people walking to work.EschCollection/Getty Images\r\n\u003Cul\u003E\n\u003Cli\u003EA majority of Americans polled by Harris believe the US is already in an economic recession.\u003C/li\u003E\n\u003Cli\u003EAbout half of America… [+2899 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "NPR"
-        },
-        "author": "Rachel Treisman",
-        "title": "What to know about Mohammad Mokhber, who is stepping in as interim president of Iran",
-        "description": "Mohammad Mokhber worked in state-affiliated financial organizations before entering politics. He will lead the Iranian government until its presidential election, which must take place within 50 days.",
-        "url": "https://www.npr.org/2024/05/20/1252418856/iran-interim-president-mohammad-mokhber",
-        "urlToImage": "https://media.npr.org/assets/img/2024/05/20/ap24141382419509_wide-b336c448b187be0d136ac17078d2e666bf1c4a2e.jpg?s=1400&c=100&f=jpeg",
-        "publishedAt": "2024-05-20T15:27:11Z",
-        "content": "In this photo released by the Iranian first vice president's office, Iranian First Vice President Mohammad Mokhber, right, now acting President of the Islamic Republic of Iran, leads a cabinet meetin… [+8022 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "BBC News"
-        },
-        "author": null,
-        "title": "Donaldson solicitor confirms MP will not contest election",
-        "description": "In March, the former DUP leader was charged with rape and 10 other historical sex offences.",
-        "url": "https://www.bbc.com/news/articles/c877lek1gm7o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2834/live/51336000-1826-11ef-baa7-25d483663b8e.jpg",
-        "publishedAt": "2024-05-22T11:04:26Z",
-        "content": "A solicitor for Sir Jeffrey Donaldson has confirmed that the former DUP leader will not be standing in the next election.\r\nIn March, Sir Jeffrey was charged with rape and 10 other historical sex offe… [+1663 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "NPR"
-        },
-        "author": "Ron Elving",
-        "title": "Pete McCloskey's life reminds us how politics long in the past live on in the present",
-        "description": "McCloskey's story has both deep roots and burgeoning relevance. He died this month at 96 and had long been out of the limelight, but the issues he had been willing to champion are as salient as ever.",
-        "url": "https://www.npr.org/2024/05/18/1252143554/pete-mccloskey-dead",
-        "urlToImage": "https://media.npr.org/assets/img/2024/05/17/ap24129786366062_wide-b3688f80d7faaa739ed6e55f39a9d0242ad62ef7.jpg?s=1400&c=100&f=jpeg",
-        "publishedAt": "2024-05-18T09:00:39Z",
-        "content": "Republican primary challenger for Rep. Richard Pombo's seat, former Rep. Pete McCloskey, is shown at his law office in Redwood City, Calif., March 16, 2006. Former California Rep. McCloskey, who ran … [+8657 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "NPR"
-        },
-        "author": "Tonya Mosley",
-        "title": "'Black Twitter' docuseries celebrates the online community with real-world impact",
-        "description": "When it comes to Black Twitter, filmmaker Prentice Penny says \"no one is above being joked on.\" His Hulu docuseries charts the voices and movements that made it a force in politics and culture.",
-        "url": "https://www.npr.org/2024/05/08/1249909137/black-twitter-docuseries-celebrates-the-online-community-with-real-world-impact",
-        "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
-        "publishedAt": "2024-05-08T17:24:49Z",
-        "content": "When it comes to Black Twitter, filmmaker Prentice Penny says \"no one is above being joked on.\" His Hulu docuseries charts the voices and movements that made it a force in politics and culture."
-      },
-      {
-        "source": {
-          "id": "wired",
-          "name": "Wired"
-        },
-        "author": "Makena Kelly",
-        "title": "Inside the Reluctant Fight to Ban Deepfake Ads",
-        "description": "Without new rules, campaigns could hoodwink voters with AI-generated ads. And no one really seems to be taking the threat seriously.",
-        "url": "https://www.wired.com/story/inside-the-lukewarm-fight-to-ban-deepfake-ads/",
-        "urlToImage": "https://media.wired.com/photos/664e5a5755dbe1fffdd7b1ea/191:100/w_1280,c_limit/politics_lab_campaign_ads_ai_disclosure.jpg",
-        "publishedAt": "2024-05-23T11:30:00Z",
-        "content": "This is all great, but voters are probably going to encounter more digital fakes online than over broadcast. And for digital ads, the government hasnt issued any solutions.\r\nThe Federal Election Comm… [+3757 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Seths.blog"
-        },
-        "author": "Seth Godin",
-        "title": "Play fair & work hard",
-        "description": "Two of the building blocks of a resilient society. And the opposite of the lazy shortcut. The meanings of both clauses change over time… Play fair: Work hard: Social media and politics have done a great job of celebrating people who seek selfish shortcuts, si…",
-        "url": "https://seths.blog/2024/05/play-fair-work-hard/",
-        "urlToImage": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_18061316.jpg",
-        "publishedAt": "2024-05-26T08:07:00Z",
-        "content": "Two of the building blocks of a resilient society.\r\nAnd the opposite of the lazy shortcut.\r\nThe meanings of both clauses change over time…\r\nPlay fair:\r\n\u003Cul\u003E\u003Cli\u003EEveryone gets an opportunity to partici… [+1255 chars]"
-      },
-      {
-        "source": {
-          "id": "bbc-news",
-          "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Sunak to warn of 'dangerous years' in pre-election speech",
-        "description": "The PM will argue in a speech that the UK is facing some of its \"most transformational\" years.",
-        "url": "https://www.bbc.co.uk/news/live/uk-politics-69001479",
-        "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
-        "publishedAt": "2024-05-13T08:38:22Z",
-        "content": "Welcome to the Sunak and Starmer show and welcome to the next four, five, six or seven months of your life.\r\nEven if you pay only fleeting attention to the goings-on in UK politics, you have probably… [+510 chars]"
-      },
-      {
-        "source": {
-          "id": "bbc-news",
-          "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Sunak to face Starmer at Prime Minister's Questions",
-        "description": "The PM will be quizzed by the Labour leader during this week's Prime Minister's Questions from midday.",
-        "url": "https://www.bbc.co.uk/news/live/uk-politics-69012669",
-        "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
-        "publishedAt": "2024-05-15T09:43:39Z",
-        "content": "Welcome to the Sunak and Starmer show and welcome to the next four, five, six or seven months of your life.\r\nEven if you pay only fleeting attention to the goings-on in UK politics, you have probably… [+561 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "Lauren Edmonds",
-        "title": "Americans ditch suffocating healthcare costs and divisive politics to retire in Italy: 'It's the way they approach life'",
-        "description": "The rising cost of healthcare and housing is driving some Americans to retire in Italy, where they say there's a better work-life balance.",
-        "url": "https://www.businessinsider.com/retired-americans-move-to-italy-affordable-healthcare-work-life-balance-2024-5",
-        "urlToImage": "https://i.insider.com/6635564210dfcda40966c53f?width=1200&format=jpeg",
-        "publishedAt": "2024-05-05T09:17:01Z",
-        "content": "Clavesana in Italy. Eric and Christina Schwendeman\r\n\u003Cul\u003E\u003Cli\u003ESome Americans are choosing to retire abroad because of healthcare costs and divisive politics.\u003C/li\u003E\u003Cli\u003EMany of them are moving to Italy, w… [+8592 chars]"
-      },
-      {
-        "source": {
-          "id": "the-verge",
-          "name": "The Verge"
-        },
-        "author": "Gaby Del Valle",
-        "title": "Head of Canada’s intelligence agency warns Canadians not to use TikTok",
-        "description": "David Vigneault, the director of the Canadian Security Intelligence Service, said the Chinese government has a “clear strategy” for acquiring personal information.",
-        "url": "https://www.theverge.com/2024/5/17/24159310/canadian-security-intelligence-service-tiktok-china-user-data",
-        "urlToImage": "https://cdn.vox-cdn.com/thumbor/7HEY9E3NFd2FwjGAFhPqk5xIvpI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25406819/STK051_TIKTOK_CVirginia_D.jpg",
-        "publishedAt": "2024-05-17T21:16:37Z",
-        "content": "Head of Canadas intelligence agency warns Canadians not to use TikTok\r\nHead of Canadas intelligence agency warns Canadians not to use TikTok\r\n / In an interview with CBC News, the director of the Can… [+1981 chars]"
-      },
-      {
-        "source": {
-          "id": "time",
-          "name": "Time"
-        },
-        "author": "Philip Elliott",
-        "title": "Remembering Alice Stewart, a Political Pro Who Never Lost Her Sense of Decency",
-        "description": "Alice Stewart may have been the most credible conservative communicator in national politics. She died unexpectedly on Saturday.",
-        "url": "https://time.com/6980178/alice-stewart-death/",
-        "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/Alice-Stewart-cnn.jpg?quality=85&w=1200&h=628&crop=1",
-        "publishedAt": "2024-05-20T21:13:14Z",
-        "content": "This article is part of The D.C. Brief, TIMEs politics newsletter. Sign up here to get stories like this sent to your inbox.\r\nAlice Stewart represented a modern master class in how to hold sincere be… [+9792 chars]"
-      },
-      {
-        "source": {
-          "id": "bbc-news",
-          "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Watch: Civil servant Simon Case in delayed Covid inquiry appearance",
-        "description": "Case had been due to appear last year, but had to withdraw on health grounds in October.",
-        "url": "https://www.bbc.co.uk/news/live/uk-69052575",
-        "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
-        "publishedAt": "2024-05-23T08:43:56Z",
-        "content": "Simon Case is\r\nthe head of the civil service, which makes him probably the most important unelected\r\nperson in politics.\r\nThe cabinet secretarys\r\nrole is to advise the prime minister, lead implementa… [+864 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "The Atlantic"
-        },
-        "author": "Travis T. Tygart",
-        "title": "Great-Power Politics Is Ruining the Olympics",
-        "description": "The agency charged with keeping sports doping-free now seems vulnerable to manipulation by malign states.",
-        "url": "https://www.theatlantic.com/international/archive/2024/05/geopolitics-doping-wada-olympics/678409/?utm_source=feed",
-        "urlToImage": null,
-        "publishedAt": "2024-05-19T11:30:00Z",
-        "content": "In 2021, on the eve of the Tokyo Olympics, 23 top Chinese swimmers tested positive for the drug trimetazidine. In its proper clinical setting, the medication is used to treat angina. But for an athle… [+10490 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Yahoo Entertainment"
-        },
-        "author": null,
-        "title": "Matt Gaetz becomes latest Kevin McCarthy defector to draw a primary challenger: From the Politics Desk",
-        "description": null,
-        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1919bd74-7667-4204-9180-c56baa7346f7",
-        "urlToImage": null,
-        "publishedAt": "2024-04-29T23:00:00Z",
-        "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Yahoo Entertainment"
-        },
-        "author": null,
-        "title": "Mick Jagger wades into politics, taking verbal jab at Louisiana state governor at performance",
-        "description": null,
-        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5a365d1d-cbe3-4c32-9d23-d819d13316eb",
-        "urlToImage": null,
-        "publishedAt": "2024-05-03T18:36:09Z",
-        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "The Atlantic"
-        },
-        "author": "Charles Sykes",
-        "title": "The Trumpian Vertigo of American Politics",
-        "description": "These are profoundly disorienting times.",
-        "url": "https://www.theatlantic.com/newsletters/archive/2024/05/the-trumpian-vertigo-of-american-politics/678473/?utm_source=feed",
-        "urlToImage": null,
-        "publishedAt": "2024-05-23T21:25:00Z",
-        "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Am… [+9183 chars]"
-      },
-      {
-        "source": {
-          "id": "wired",
-          "name": "Wired"
-        },
-        "author": "Matt Burgess",
-        "title": "The Alleged LockBit Ransomware Mastermind Has Been Identified",
-        "description": "Law enforcement officials from the US, UK, and Australia say they’ve identified and sanctioned the person behind LockBitSupp, the administrator at the heart of LockBit’s $120 million hacking rampage.",
-        "url": "https://www.wired.com/story/lockbitsupp-lockbit-ransomware/",
-        "urlToImage": "https://media.wired.com/photos/663a35133fe811c0af69d61e/191:100/w_1280,c_limit/DK1.jpg",
-        "publishedAt": "2024-05-07T14:19:35Z",
-        "content": "If you are a cyber criminal, and you are operating in these marketplaces, or forums or platforms, you cannot be certain that law enforcement are not in there observing you and taking action against y… [+3129 chars]"
-      },
-      {
-        "source": {
-          "id": "bbc-news",
-          "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Barron Trump 'declines' Republican convention role",
-        "description": "The former US president's youngest child, 18, has \"prior commitments\", according to his mother.",
-        "url": "https://www.bbc.co.uk/news/world-us-canada-68992293",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F153/production/_133297716_gettyimages-1410059415.jpg",
-        "publishedAt": "2024-05-10T21:55:10Z",
-        "content": "Barron Trump is declining to serve as a delegate on behalf of his father at the Republican National Convention, according to his mother's office.\r\nThe Florida Republican Party announced on Wednesday … [+3209 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "NPR"
-        },
-        "author": "Jeongyoon Han",
-        "title": "Barron Trump will serve as a Florida delegate at the GOP convention",
-        "description": "Barron Trump, who turned 18 in March, has largely been kept out of the spotlight — until now. His name appears on a list of  delegates for Florida at the Republican National Convention in July.",
-        "url": "https://www.npr.org/2024/05/09/1250277468/barron-trump-delegate-republican-national-convention",
-        "urlToImage": "https://media.npr.org/assets/img/2024/05/09/ap22320132249731_wide-6e57e6755689078f1bc222c7e072485e1e6c50f8.jpg?s=1400&c=100&f=jpeg",
-        "publishedAt": "2024-05-09T19:14:21Z",
-        "content": "Former President Donald Trump greets people after announcing he is running for president for the third time as he speaks at Mar-a-Lago in Palm Beach, Fla., in 2022 as his son, Barron Trump, watches.\r… [+2242 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "ReadWrite"
-        },
-        "author": "Sophie Atkinson",
-        "title": "Majority of Americans think social media firms have too much power, finds survey",
-        "description": "Most Americans are wary of social media companies and their role in politics and the future of the country, according… Continue reading Majority of Americans think social media firms have too much power, finds survey\nThe post Majority of Americans think socia…",
-        "url": "https://readwrite.com/majority-of-americans-think-social-media-firms-have-too-much-power-finds-survey/",
-        "urlToImage": "https://readwrite.com/wp-content/uploads/2024/04/social-media.jpg",
-        "publishedAt": "2024-04-30T12:53:35Z",
-        "content": "Most Americans are wary of social media companies and their role in politics and the future of the country, according to a new survey of U.S. adults.\r\nThe Pew Research Center has published findings f… [+2377 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Yahoo Entertainment"
-        },
-        "author": "Lawrence Bonk",
-        "title": "Sure, why not: China built a chatbot based on Xi Jinping",
-        "description": "Chatting it up with a fake ScarJo not doing it for you? Why not try a conversation with the leader of China? There’s a new chatbot in town and it's based on Xi Jinping. As a matter of fact, it was trained using the ‘thoughts’ of the Chinese leader. I put thou…",
-        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_376efa5c-51b4-4125-bf13-942d693781e9",
-        "urlToImage": null,
-        "publishedAt": "2024-05-22T15:58:28Z",
-        "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "Brent D. Griffiths",
-        "title": "Abortion politics have changed so drastically that a GOP Senate candidate is airing an ad saying he would vote to codify Roe into law",
-        "description": "Former Maryland Gov. Larry Hogan is trying to mollify voters' anger over Roe's reversal.",
-        "url": "https://www.businessinsider.com/larry-hogan-abortion-rights-roe-codify-maryland-senate-race-2024-5",
-        "urlToImage": "https://i.insider.com/664ce48b20abc1efe8fc1809?width=1200&format=jpeg",
-        "publishedAt": "2024-05-21T20:31:43Z",
-        "content": "Former Maryland Gov. Larry Hogan would be one of the few GOP senators that supports some abortion rights if he wins in November.NBC/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EFormer Maryland Gov. Larry Hogan is airing an… [+4086 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "BBC News"
-        },
-        "author": null,
-        "title": "How important is Scotland in deciding the UK election?",
-        "description": "Sir Keir Starmer and Rishi Sunak are hoping this election marks the end of an era of SNP domination.",
-        "url": "https://www.bbc.com/news/articles/cw44p9x4z02o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7db0/live/f55a6a80-1956-11ef-a854-e92d1a638477.jpg",
-        "publishedAt": "2024-05-23T23:13:55Z",
-        "content": "James Cook,Scotland Editor, BBC News\r\nSir Keir Starmer makes his first visit to Scotland since the election was called\r\nDoes the path to 10 Downing Street run through Scotland? The Labour leader, Sir… [+8146 chars]"
-      },
-      {
-        "source": {
-          "id": "the-verge",
-          "name": "The Verge"
-        },
-        "author": "Gaby Del Valle",
-        "title": "Two brothers accused of stealing $25 million worth of crypto",
-        "description": "The brothers, Anton and James Peraire-Bueno, face up to 60 years in prison if convicted.",
-        "url": "https://www.theverge.com/2024/5/16/24158398/crypto-ethereum-heist-peraire-bueno-brothers",
-        "urlToImage": "https://cdn.vox-cdn.com/thumbor/IoqvDVRfH_TRVzXzP28JYCE7eLw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951328/STK015_VRG_Illo_N_Barclay_7_ethereum.jpg",
-        "publishedAt": "2024-05-16T20:46:45Z",
-        "content": "Two brothers accused of stealing $25 million worth of crypto\r\nTwo brothers accused of stealing $25 million worth of crypto\r\n / The heist took just 12 minutes to execute, prosecutors claim.\r\nByGaby De… [+2933 chars]"
-      },
-      {
-        "source": {
-          "id": "the-verge",
-          "name": "The Verge"
-        },
-        "author": "Gaby Del Valle",
-        "title": "Political ads could require AI-generated content disclosures soon",
-        "description": "The FCC is considering rules that don’t prohibit the use of AI-generated content in political ads but would require disclosing its use in any TV and radio ads.",
-        "url": "https://www.theverge.com/2024/5/22/24162676/fcc-ai-generated-political-ads-disclosure-federal-communications-commission",
-        "urlToImage": "https://cdn.vox-cdn.com/thumbor/mEqRjHMvxxaMLp8tymymLJ-xUdE=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25334823/STK466_ELECTION_2024_CVirginia_D.jpg",
-        "publishedAt": "2024-05-22T19:41:20Z",
-        "content": "Political ads could require AI-generated content disclosures soon\r\nPolitical ads could require AI-generated content disclosures soon\r\n / The FCC will consider new AI disclosure requirements for polit… [+3036 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "The New Yorker"
-        },
-        "author": "Dan Kaufman",
-        "title": "The Progressive Running to End the Dominance of Coal in West Virginia",
-        "description": "Dan Kaufman writes about Zach Shrewsbury, who is running for the U.S. Senate, and whether a progressive campaign can break the coal industry’s hold on West Virginia politics.",
-        "url": "https://www.newyorker.com/news/the-political-scene/the-workingman-and-the-company-store",
-        "urlToImage": "https://media.newyorker.com/photos/662fc42574577f65e1ee301c/16:9/w_1280,c_limit/Kaufman-WV-1.jpg",
-        "publishedAt": "2024-05-09T10:00:00Z",
-        "content": "In January, Shrewsbury happened to be in the office of the West Virginia secretary of state, amending some of his campaign filings, when Blankenship arrived to file his own paperwork for another Sena… [+10972 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Mit.edu"
-        },
-        "author": null,
-        "title": "Weapons in Space Technology, Politics, and the Rise and Fall of SDI",
-        "description": "A new and provocative take on the formerly classified history of accelerating superpower military competition in space in the late Cold War and beyond.In M",
-        "url": "https://direct.mit.edu/books/oa-monograph/5770/Weapons-in-SpaceTechnology-Politics-and-the-Rise",
-        "urlToImage": "https://mitp.silverchair-cdn.com/mitp/content_public/books/5770/book/1/m_9780262377386-cover.jpeg?Expires=1778375570&Signature=FH0gCQ~I0kKSCojKQHw5tYViJj0esZc1yeUb4Z-~l6BlexSrtQuHYMVf0biLSDDXg5WOmOZ~9srHVHlcdfe7Txa3NT0~~pc7-47VL9ObOjeMuQJMK6JYca4n3SOLqK6K8ykVM-Iztg9830jFVkiGaiF6BTItROvbtyZSbciSFSs9LBnjjnxcdmjcNO36CCrY6gl8S8gaFhXvifQKLBIhHITBFQ58tuJSH-qFwNkzfASaJ3njWhdoCPE38GVmwLdu4Fs3hNxr8fPtkHCUVeeZwxUx3R8TkwBZnWRvwtsvfGNFtx7T7SK8MynRIeRmxXebjctgpFzGkZ8iUAUTG5v0Hg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
-        "publishedAt": "2024-05-10T00:16:39Z",
-        "content": "A new and provocative take on the formerly classified history of accelerating superpower military competition in space in the late Cold War and beyond.\r\nIn March 1983, President Ronald Reagan shocked… [+1425 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "Bryan Metzger",
-        "title": "These 11 House Republicans voted to advance MTG's bid to oust Mike Johnson",
-        "description": "The far-right congresswoman's ouster effort easily failed, but a handful of Republicans voted to allow debate on her motion to vacate.",
-        "url": "https://www.businessinsider.com/which-house-republicans-vote-table-marjorie-taylor-greene-motion-vacate-2024-5",
-        "urlToImage": "https://i.insider.com/66338f4910dfcda40965c159?width=1200&format=jpeg",
-        "publishedAt": "2024-05-08T21:59:19Z",
-        "content": "Reps. Marjorie Taylor Greene and Thomas Massie at a press conference on their bid to oust Johnson last week.Bill Clark/CQ-Roll Call via Getty Images\r\n\u003Cul\u003E\u003Cli\u003EMarjorie Taylor Greene's effort to oust S… [+2014 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "BBC News"
-        },
-        "author": null,
-        "title": "Lib Dems pledge to hire 8,000 extra GPs if elected",
-        "description": "Lib Dem leader Sir Ed Davey is calling for patients to have the right to see a GP within seven days.",
-        "url": "https://www.bbc.com/news/articles/cy66901gz3po",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0e7a/live/b81102c0-192d-11ef-8b52-2b41a6663d25.jpg",
-        "publishedAt": "2024-05-23T21:57:19Z",
-        "content": "Sam Francis,Political Reporter \r\nThe Liberal Democrats have pledged to recruit 8,000 more GPs if elected, putting the policy at \"the heart\" of their general election campaign offer.\r\nSir Ed Davey, th… [+2786 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "[Removed]"
-        },
-        "author": null,
-        "title": "[Removed]",
-        "description": "[Removed]",
-        "url": "https://removed.com",
-        "urlToImage": null,
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "content": "[Removed]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "ReadWrite"
-        },
-        "author": "Radek Zielinski",
-        "title": "VanEck’s Ethereum ETF listed on DTCC ahead of SEC decision",
-        "description": "As the crypto world eagerly awaits the potential approval of a spot Ethereum (ETH) exchange-traded fund (ETF) in the United… Continue reading VanEck’s Ethereum ETF listed on DTCC ahead of SEC decision\nThe post VanEck’s Ethereum ETF listed on DTCC ahead of SEC…",
-        "url": "https://readwrite.com/vanecks-ethereum-etf-listed-on-dtcc-ahead-of-sec-decision/",
-        "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/7d2458c7-4e0d-464d-b67f-478180f04130.webp",
-        "publishedAt": "2024-05-22T16:11:39Z",
-        "content": "As the crypto world eagerly awaits the potential approval of a spot Ethereum (ETH) exchange-traded fund (ETF) in the United States, global investment firm VanEck has taken another step forward. The c… [+2186 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "BBC News"
-        },
-        "author": null,
-        "title": "Pledges delayed and some early slip-ups: Sunak's first days on the campaign trail",
-        "description": "As is often the case in political campaigns, things don’t always stick to the script.",
-        "url": "https://www.bbc.com/news/articles/c3ggxldmngko",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d42c/live/177f7db0-1a03-11ef-baa7-25d483663b8e.jpg",
-        "publishedAt": "2024-05-24T19:40:40Z",
-        "content": "Elections are like nothing else in politics. Theyre manic; politicians whizzing around the country, from town to town, city to city, trying to set the agenda and control the narrative.\r\nRishi Sunak w… [+2646 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Theregister.com"
-        },
-        "author": "Liam Proven",
-        "title": "Nix forked, but over politics instead of progress",
-        "description": "Aux.computer fragments the community – but doesn't fix the technological objections\nComment Recent ructions in the Nix project over moderation, leadership, and funding, have led to a fork… but one that fails to address the technical and human issues with Nix …",
-        "url": "https://www.theregister.com/2024/05/14/nix_forked_but_over_politics/",
-        "urlToImage": "https://regmedia.co.uk/2016/09/01/split-path.jpg",
-        "publishedAt": "2024-05-14T08:30:12Z",
-        "content": "Comment Recent ructions in the Nix project over moderation, leadership, and funding, have led to a fork but one that fails to address the technical and human issues with Nix packaging itself.\r\nFirst … [+6985 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "Bryan Metzger",
-        "title": "Bernie Sanders: From small-town mayor to godfather of the progressive left",
-        "description": "The two-time presidential candidate and progressive icon has become a key institutional player in the US Senate. It wasn't always that way.",
-        "url": "https://www.businessinsider.com/who-is-bernie-sanders-career-journey-president-socialism-2024-4",
-        "urlToImage": "https://i.insider.com/6616fe8e1caec1275a6ed633?width=1200&format=jpeg",
-        "publishedAt": "2024-04-29T15:24:51Z",
-        "content": "Sen. Bernie Sanders of Vermont at a White House event on April 3, 2024.Chip Somodevilla/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EBernie Sanders has become a towering figure in American politics. It wasn't always that w… [+5432 chars]"
-      },
-      {
-        "source": {
-          "id": "the-verge",
-          "name": "The Verge"
-        },
-        "author": "Kevin Nguyen",
-        "title": "Ryûsuke Hamaguchi wants you to watch his new movie at least twice",
-        "description": "The Japanese director sat down with The Verge to talk about his new film, Evil Does Not Exist, and how the reception of Drive My Car has changed expectations of his work.",
-        "url": "https://www.theverge.com/24141455/evil-does-not-exist-ryusuke-hamaguchi-interview",
-        "urlToImage": "https://cdn.vox-cdn.com/thumbor/YWbCT6zoqdJYVM5LmGDJ4EKBgIE=/0x0:3600x2160/1200x628/filters:focal(1800x1080:1801x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25419777/EvilDoesNotExist_Still3.jpg",
-        "publishedAt": "2024-05-03T13:00:00Z",
-        "content": "In an interview with The Verge, the director explains why you need to see his new film, Evil Does Not Exist, multiple times to understand the ending.\r\nByKevin Nguyen, a features editor at The Verge, … [+6837 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "Bryan Metzger",
-        "title": "163 House Democrats voted to protect Mike Johnson from MTG's ouster effort",
-        "description": "While Greene's effort failed in large part due to Democrats, several of them opted not to save Johnson.",
-        "url": "https://www.businessinsider.com/which-house-democrats-voted-protect-mike-johnson-marjorie-taylor-greene-2024-5",
-        "urlToImage": "https://i.insider.com/66339269ec0c696569000f60?width=1200&format=jpeg",
-        "publishedAt": "2024-05-08T21:55:22Z",
-        "content": "Most Democrats, led by House Minority Leader Hakeem Jeffries, voted to table MTG's bid to oust Speaker Mike Johnson.Drew Angerer/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EMTG's bid to oust Speaker Mike Johnson failed, t… [+1525 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "The New York Review of Books"
-        },
-        "author": "Sarah Birke, Carlos Bravo Regidor",
-        "title": "Mexico’s Politics of Bitterness",
-        "description": "On the eve of Mexico’s presidential elections, Andrés Manuel López Obrador maintains a high approval rating. But his constitutional chicanery and disregard for the law have undermined democracy, and his divisive rhetoric has polarized the country.",
-        "url": "https://www.nybooks.com/articles/2024/06/06/mexicos-politics-of-bitterness-birke-regidor/",
-        "urlToImage": "https://www.nybooks.com/wp-content/uploads/2024/05/birke_1-060624-900.jpg",
-        "publishedAt": "2024-05-16T12:00:00Z",
-        "content": "Early last September, at a restaurant a block from Mexico City’s National Palace, the leaders of the Movement for National Regeneration, known as Morena, gathered for a changing of the guard. Preside… [+27096 chars]"
-      },
-      {
-        "source": {
-          "id": "bbc-news",
-          "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Kuenssberg: SNP in meltdown, and what happens next matters across the UK",
-        "description": "This \"OMG\" moment for Humza Yousaf is latest in a long line of nasty surprises for a party that has been in decline.",
-        "url": "https://www.bbc.co.uk/news/uk-politics-68912100",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/156DD/production/_133237778_laura-1-getty-nc.png",
-        "publishedAt": "2024-04-27T12:30:22Z",
-        "content": "\"OMG.\" That's what one SNP politician said to me when they realised First Minister Humza Yousaf had binned a planned public event on Friday morning, fuelling the guessing game about whether or not he… [+8362 chars]"
-      },
-      {
-        "source": {
-          "id": "abc-news",
-          "name": "ABC News"
-        },
-        "author": "Soo Rin Kim, Hannah Demissie, Lalee Ibssa",
-        "title": "Barron Trump declines Florida GOP delegate position due to 'prior commitments'",
-        "description": "Barron Trump declines Florida GOP delegate position due to \"prior commitments.\"",
-        "url": "https://abcnews.go.com/Politics/barron-trump-declines-florida-gop-delegate-position-due/story?id=110121822",
-        "urlToImage": "https://i.abcnewsfe.com/a/3388346a-051b-404d-b97d-46ae935f0cf5/barron-trump-ap-jt-240510_1715380171880_hpMain_16x9.jpg?w=1600",
-        "publishedAt": "2024-05-10T23:00:06Z",
-        "content": "Former President Donald Trump's youngest child, Barron Trump, is declining an opportunity to serve as Florida's GOP at-large delegate to the Republican National Convention due to \"prior commitments,\"… [+1923 chars]"
-      },
-      {
-        "source": {
-          "id": "time",
-          "name": "Time"
-        },
-        "author": "Christopher Ewing / Made by History",
-        "title": "The Surprising Face of German Anti-Immigration Policies",
-        "description": "Between the German left and right, a troubling consensus has emerged on immigration.",
-        "url": "https://time.com/6960193/german-immigration-consensus/",
-        "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/german-politics.jpg?quality=85&w=1024&h=628&crop=1",
-        "publishedAt": "2024-05-07T15:01:45Z",
-        "content": "In recent months, a new party has entered the German left. The Sahra Wagenknecht Alliance (BSW), headed by two women with immigrant roots in the Middle East and North Africa (Sahra Wagenknecht and Am… [+9021 chars]"
-      },
-      {
-        "source": {
-          "id": "time",
-          "name": "Time"
-        },
-        "author": "DEEPA BHARATH / AP",
-        "title": "CNN Political Commentator Alice Stewart Is Remembered By Peers After Death Aged 58",
-        "description": "Alice Stewart, a CNN political commentator and veteran political adviser, has died at age 58. Peers have paid tribute.",
-        "url": "https://time.com/6979781/alice-stewart-dead-age-58-cnn-political-commentator/",
-        "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/GettyImages-528782948.jpg?quality=85&w=1024&h=628&crop=1",
-        "publishedAt": "2024-05-19T12:14:58Z",
-        "content": "Alice Stewart, a CNN political commentator and veteran political adviser who worked on a number of GOP presidential campaigns, has died at age 58, the news network reported Saturday.\r\nPolice in north… [+4791 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Rolling Stone"
-        },
-        "author": "Nikkimccannramirez",
-        "title": "Barron Trump Is Officially Entering Politics",
-        "description": "Barron Trump, the youngest son of Donald Trump, will serve as a Florida delegate for his father during this year's Republican National Convention.",
-        "url": "http://www.rollingstone.com/politics/politics-news/barron-trump-rnc-delegate-1235017767/",
-        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/05/barron-trump-politics.jpg?crop=0px%2C69px%2C1800px%2C1014px&resize=1600%2C900",
-        "publishedAt": "2024-05-09T13:53:45Z",
-        "content": "Donald Trump’s youngest son is officially making his foray into his family’s political mafia. \r\nThe Republican National Convention has selected Barron Trump, the 18-year-old son of the former preside… [+1411 chars]"
-      },
-      {
-        "source": {
-          "id": "bbc-news",
-          "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Labour insists Elphicke is 'good fit' for party",
-        "description": "Some Labour MPs are unhappy about Tory defector Natalie Elphicke's views and past comments.",
-        "url": "https://www.bbc.co.uk/news/uk-politics-68982095",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8456/production/_133287833_starmerelphickepamedia.jpg",
-        "publishedAt": "2024-05-09T07:35:29Z",
-        "content": "Labour has defended the decision to welcome Tory defector Natalie Elphicke into the party after some Labour MPs were angered by the decision. \r\nLabour chair Anneliese Dodds said the Dover MP - seen a… [+5514 chars]"
-      },
-      {
-        "source": {
-          "id": "bbc-news",
-          "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Panama to choose president after front-runner sentenced",
-        "description": "The man who led the polls, ex-President Ricardo Martinelli, was found guilty of money-laundering.",
-        "url": "https://www.bbc.co.uk/news/world-latin-america-68935251",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8CEC/production/_133267063_candidates-2.jpg",
-        "publishedAt": "2024-05-05T04:56:12Z",
-        "content": "Panamanians are voting in a general election which has been overshadowed by the disqualification of the man who was leading in the polls.\r\nEx-President Ricardo Martinelli was the favourite to win unt… [+4256 chars]"
-      },
-      {
-        "source": {
-          "id": "bbc-news",
-          "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "The inside story of Tory MP's defection to Labour",
-        "description": "Keir Starmer's allies believe the Dover MP can help win Tory voters but some on the left are uneasy.",
-        "url": "https://www.bbc.co.uk/news/uk-politics-68979548",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0F26/production/_133287830_elphickegetty.jpg",
-        "publishedAt": "2024-05-08T16:11:34Z",
-        "content": "Before Tory MP Christian Wakeford swapped sides to Labour at the peak of the Partygate scandal in 2022, it had been 27 years since an MP had defected directly from the governing party to the main par… [+4439 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "The New Yorker"
-        },
-        "author": "The New Yorker",
-        "title": "Who Should Be More Worried about Robert F. Kennedy, Jr.—Biden or Trump?",
-        "description": "On the Political Scene with Susan B. Glasser, Jane Mayer, and Evan Osnos: “He’s not a serious threat in terms of being able to win,” Jane Mayer says, “but he is potentially a serious threat in being able to spoil this election for one side or the other.”",
-        "url": "https://www.newyorker.com/podcast/political-scene/who-should-be-more-worried-about-robert-f-kennedy-jr-biden-or-trump",
-        "urlToImage": "https://media.newyorker.com/photos/63755311573147b2b8a3132b/16:9/w_1280,c_limit/The%20Political%20Scene%20B%20Glasser%20Mayer%20Osnos%20From%20Washington.jpg",
-        "publishedAt": "2024-05-04T10:00:00Z",
-        "content": "Listen and subscribe:Apple | Spotify | Google | Wherever You Listen\r\nSign upto receive our twice-weekly News &amp; Politics newsletter.\r\nThe Washington Roundtable discusses the Presidential candidacy… [+269 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "NPR"
-        },
-        "author": "Rebecca Rosman",
-        "title": "Why protesters in Georgia are opposed to a 'foreign agents' law and why it matters",
-        "description": "More than 50,000 people took to the streets of the capital city Tbilisi over the weekend to protest against proposed legislation that critics say is modeled on a Russian law used to crush dissent.",
-        "url": "https://www.npr.org/2024/05/13/1250983403/georgia-protest-foreign-agents-law-russia-dissent-eu",
-        "urlToImage": "https://media.npr.org/assets/img/2024/05/13/gettyimages-2152233947_wide-107356f5a8cfe15bd8a8a8f38a99af8bd767172b.jpg?s=1400&c=100&f=jpeg",
-        "publishedAt": "2024-05-13T20:21:38Z",
-        "content": "Georgian students rally to protest the controversial \"foreign influence\" bill outside the parliament in Georgia's capital, Tbilisi, on Monday.\r\nGiorgi Arjevanidze/AFP via Getty Images\r\nTens of thousa… [+5529 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "Bryan Metzger",
-        "title": "Bernie Sanders is running for reelection",
-        "description": "The 82-year-old senator, whose 2016 and 2020 campaigns ignited the contemporary progressive movement, is running for a 4th term.",
-        "url": "https://www.businessinsider.com/bernie-sanders-running-reelection-fourth-term-2024-5",
-        "urlToImage": "https://i.insider.com/6638e818b8f515beaf11b30a?width=1200&format=jpeg",
-        "publishedAt": "2024-05-06T15:01:59Z",
-        "content": "Sen. Bernie Sanders of Vermont at the Capitol last month.Mandel Ngan/AFP via Getty Images\r\n\u003Cul\u003E\u003Cli\u003ESen. Bernie Sanders is running for reelection in 2024.\u003C/li\u003E\u003Cli\u003EThe 82-year-old is the last senator t… [+1956 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "John L. Dorman",
-        "title": "Potential Trump running mate JD Vance and Donald Trump Jr. have become so close that they text or talk on a 'nearly daily' basis: NYT",
-        "description": "Sen. Vance's loyalty to former President Trump has put him on the ex-president's list as a potential running mate, according to The New York Times.",
-        "url": "https://www.businessinsider.com/jd-vance-donald-trump-jr-close-friendship-gop-america-first-2024-4",
-        "urlToImage": "https://i.insider.com/662e698a10dfcda409643c2b?width=1200&format=jpeg",
-        "publishedAt": "2024-04-28T16:36:40Z",
-        "content": "JD Vance and Donald Trump Jr.REUTERS/Gaelen Morse\r\n\u003Cul\u003E\u003Cli\u003EJD Vance and Donald Trump Jr. have developed a close friendship and communicate \"nearly daily,\" per The Times.\u003C/li\u003E\u003Cli\u003EVance was once a crit… [+2248 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "NPR"
-        },
-        "author": "Yuki Noguchi",
-        "title": "Biden administration abandons plan to ban menthol cigarettes, citing 'feedback'",
-        "description": "An anti-smoking advocate says the decision to leave menthol cigarettes on the market \"prioritizes politics over lives, especially Black lives.\"",
-        "url": "https://www.npr.org/sections/health-shots/2024/04/26/1247581028/biden-administration-abandons-plan-to-ban-menthol-cigarettes-citing-feedback",
-        "urlToImage": "https://media.npr.org/assets/img/2024/04/26/gettyimages-1394272493_wide-cdb07f2435d003e636de6b6fe28d357b2dc9234e-s1400-c100.jpg",
-        "publishedAt": "2024-04-26T21:15:14Z",
-        "content": "Menthol cigarettes are popular among Black and Latino smokers, and a Biden administration official cited civil rights as a reason the ban is being dropped.\r\nMario Tama/Getty Images\r\nThe Biden adminis… [+2027 chars]"
-      },
-      {
-        "source": {
-          "id": "bbc-news",
-          "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "BBC migration-output review finds impartiality risk",
-        "description": "A review of the BBC's coverage of migration suggests the corporation should explore stories in greater detail.",
-        "url": "https://www.bbc.co.uk/news/entertainment-arts-68970447",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2373/production/_133257090_5fe48d5ef436832ba91d7604d130d72e9fd9484a-1.jpg",
-        "publishedAt": "2024-05-07T18:20:57Z",
-        "content": "A review into the BBC's migration coverage has found while there is no consistent bias towards one viewpoint, there are risks to impartiality.\r\nCommissioned by the BBC board, in April 2023, Dr Madeli… [+4625 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Gizmodo.com"
-        },
-        "author": "Germain Lussier",
-        "title": "Furiosa Is Every Bit the Mad Max Masterpiece You're Hoping For",
-        "description": "If you think of Mad Max: Fury Road as The Hobbit, Furiosa is its Lord of the Rings. They’re two stories set in the same world, with the same characters, taking place at different periods of time. One is a little more singular and focused while the other is la…",
-        "url": "https://gizmodo.com/furiosa-review-mad-max-saga-movie-hemsworth-taylor-joy-1851466854",
-        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8984a01ae842c97b2cfa5f36f2c98974.jpg",
-        "publishedAt": "2024-05-15T19:30:00Z",
-        "content": "If you think of Mad Max: Fury Road as The Hobbit, Furiosa is its Lord of the Rings. Theyre two stories set in the same world, with the same characters, taking place at different periods of time. One … [+6760 chars]"
-      },
-      {
-        "source": {
-          "id": "time",
-          "name": "Time"
-        },
-        "author": "Chad de Guzman",
-        "title": "Trump VP Hopeful Kristi Noem Suggests Biden’s Dog Should Be Shot Like Hers",
-        "description": "The South Dakota Governor and Trump VP hopeful suggested that Biden’s bite-prone dog should join the dog she admitted to shooting.",
-        "url": "https://time.com/6974956/kristi-noem-joe-biden-dog-shot/",
-        "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/commander.jpg?quality=85&w=1024&h=628&crop=1",
-        "publishedAt": "2024-05-06T03:00:00Z",
-        "content": "South Dakota Gov. Kristi Noem, who has come under fire in recent days for her admission to killing her misbehaving 14-month-old dog Cricket, has suggested that President Joe Bidens dog Commander shou… [+1224 chars]"
-      },
-      {
-        "source": {
-          "id": "time",
-          "name": "Time"
-        },
-        "author": "Mallory Moench",
-        "title": "Trump VP Contender Kristi Noem Faces Backlash After Admitting to Killing Her Dog",
-        "description": "South Dakota Governor Kristi Noem, a reported Donald Trump Vice President contender, admitted to killing her own dog in an upcoming memoir.",
-        "url": "https://time.com/6971773/kristi-noem-memoir-dog-kill-children-net-worth/",
-        "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/kristinoem.jpg?quality=85&w=1024&h=628&crop=1",
-        "publishedAt": "2024-04-27T15:03:25Z",
-        "content": "South Dakota Governor Kristi Noem, a Republican and reported contender for Donald Trumps Vice President pick in the 2024 election, has received pushback after admitting to killing her dog in her new … [+5112 chars]"
-      },
-      {
-        "source": {
-          "id": "time",
-          "name": "Time"
-        },
-        "author": "Mallory Moench",
-        "title": "The Kristi Noem and Kim Jong Un Controversy, Explained",
-        "description": "South Dakota Governor Kristi Noem reportedly wrote in her new memoir that she met North Korean leader Kim Jong Un. But doubts were raised.",
-        "url": "https://time.com/6974797/kristi-noem-kim-jong-un-book-controversy/",
-        "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/Untitled-design-4.png?w=1200&h=628&crop=1",
-        "publishedAt": "2024-05-05T12:18:04Z",
-        "content": "South Dakota Governor Kristi Noem reportedly wrote in her new memoir that she met North Korean leader Kim Jong Unbut her spokesperson is later quoted as having said the statement was an error. \r\nIn N… [+3040 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Gigazine.net"
-        },
-        "author": "@GIGAZINE",
-        "title": "ロシアのスパイ夫婦がロシア連邦軍参謀本部情報総局の秘密基地をギリシャに用意してホテルに偽造して経営していた実態が明らかに",
-        "description": "ロシア連邦軍参謀本部情報総局(GRU)の29155部隊は、弾薬倉庫爆破や武器商人毒殺などに関係したことが報じられています。新たに、チェコ国籍を持つ夫妻によって経営されていたギリシャのホテルが29155部隊の隠れ家として使われていた実態がロシア関連の話題を扱う独立系メディア「The Insider」の調査によって明らかになりました。続きを読む...",
-        "url": "https://gigazine.net/news/20240430-russia-gru-couple-spy/",
-        "urlToImage": "https://i.gzn.jp/img/2024/04/30/russia-gru-couple-spy/00.jpg",
-        "publishedAt": "2024-04-30T11:00:00Z",
-        "content": "(GRU)2915529155The Insider\r\nThe Czech illegals: Husband and wife outed as GRU spies aiding bombings and poisonings across Europehttps://theins.ru/en/politics/271205\r\nGRUGRUGRU2012GRU\r\nGRU29155NATO\r\n2… [+208 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "Alcynna Lloyd",
-        "title": "I'm moving out of Texas after 60 years there. The culture has changed and big tech firms have made Austin too expensive.",
-        "description": "Flora Batts became disenchanted with Texas' high cost of living and increasingly hot weather. So she's moving to Pennsylvania to enjoy retirement.",
-        "url": "https://www.businessinsider.com/leaving-austin-texas-tech-increased-cost-of-living-changed-culture-2024-5",
-        "urlToImage": "https://i.insider.com/663e676f9686a6f37bfeb34c?width=1200&format=jpeg",
-        "publishedAt": "2024-05-12T11:09:01Z",
-        "content": "Flora Batts and her husband, who are moving to Pennsylvania after becoming fed up with aspects of living in Texas.Courtesy of Flora Batts\r\n\u003Cul\u003E\u003Cli\u003EFlora Batts, 65, has had it with Texas' high cost of… [+8698 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "ReadWrite"
-        },
-        "author": "Sophie Atkinson",
-        "title": "Lawmakers call for ban on killer machines and regulation of AI weapons",
-        "description": "Politicians in Austria have called for regulation on the use of artificial intelligence in weapon systems as concerns arise around… Continue reading Lawmakers call for ban on killer machines and regulation of AI weapons\nThe post Lawmakers call for ban on kill…",
-        "url": "https://readwrite.com/lawmakers-call-for-ban-on-killer-machines-and-regulation-of-ai-weapons/",
-        "urlToImage": "https://readwrite.com/wp-content/uploads/2024/04/G07aoq0kRFKC0AsOD4-Mzw.png",
-        "publishedAt": "2024-04-30T12:51:20Z",
-        "content": "Politicians in Austria have called for regulation on the use of artificial intelligence in weapon systems as concerns arise around using machines that can kill people without any human intervention.\r… [+2064 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "ReadWrite"
-        },
-        "author": "Sophie Atkinson",
-        "title": "China creates its own ChatGPT chatbot based on Xi Jinping",
-        "description": "A chatbot trained on the thoughts of China’s President Xi Jinping has been created by the country’s top internet regulator.… Continue reading China creates its own ChatGPT chatbot based on Xi Jinping\nThe post China creates its own ChatGPT chatbot based on Xi …",
-        "url": "https://readwrite.com/china-creates-its-own-chatgpt-chatbot-based-on-xi-jinping/",
-        "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/EJO6GxSQT06GVqIMLRbjpQ-1.jpg",
-        "publishedAt": "2024-05-22T16:18:52Z",
-        "content": "A chatbot trained on the thoughts of Chinas President Xi Jinping has been created by the countrys top internet regulator.\r\nThe large language model (LLM) has been launched by the China Cyberspace Res… [+1882 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "ReadWrite"
-        },
-        "author": "Graeme Hanna",
-        "title": "£1.35 million staked on UK General Election within 24 hours",
-        "description": "Within 24 hours of the announcement of a UK General Election, £1.35 million ($1.72m) had been staked on Betfair’s Exchange… Continue reading £1.35 million staked on UK General Election within 24 hours\nThe post £1.35 million staked on UK General Election withi…",
-        "url": "https://readwrite.com/1-35-million-staked-on-uk-general-election-within-24-hours/",
-        "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/pexels-joanna-zdunczyk-18647846-6476020-scaled.jpg",
-        "publishedAt": "2024-05-24T10:07:23Z",
-        "content": "Within 24 hours of the announcement of a UK General Election, £1.35 million ($1.72m) had been staked on Betfair’s Exchange election markets.\r\nThe sudden announcement made by incumbent Prime Minister … [+1983 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Kotaku"
-        },
-        "author": "Zack Zwiezen",
-        "title": "Halo Composer Running For Congress 'Intends To Win' Because He's A 'Gamer'",
-        "description": "A few months ago, former Bungie composer Marty O’Donnell announced he was running for Congress. And in a new interview, the Halo and Destiny composer says he’ll succeed because he’s a “gamer” and also because, making Halo 2 was harder than governing a nation.…",
-        "url": "https://kotaku.com/halo-composer-marty-odonnell-bungie-congress-gamer-win-1851476437",
-        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1213b278180d2b07f2d05916e8387af9.jpg",
-        "publishedAt": "2024-05-14T17:45:00Z",
-        "content": "A few months ago, former Bungie composer Marty ODonnell announced he was running for Congress. And in a new interview, the Halo and Destiny composer says hell succeed because hes a gamer and also bec… [+2135 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "The New Yorker"
-        },
-        "author": "The New Yorker",
-        "title": "A Father-Daughter Swearing Lesson in “The F-Word”",
-        "description": "In Alex Cannon’s comedic short, “The F-Word,” starring Chris Gethard, a dad struggles to give an age-appropriate explanation of the expletive.",
-        "url": "https://www.newyorker.com/culture/screening-room/a-father-daughter-swearing-lesson-in-the-f-word",
-        "urlToImage": "https://media.newyorker.com/photos/664bb2363b877b1df395b82b/16:9/w_1280,c_limit/_TheFword_thumb4.jpg",
-        "publishedAt": "2024-05-22T10:00:00Z",
-        "content": "A father finds himself wading deep into the politics of language when his young daughter looks up from her coloring paper to ask What does fuck mean? The dad, played by the comedian Chris Gethard, of… [+397 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Dnyuz.com"
-        },
-        "author": "New York Times",
-        "title": "How Fear and Menace Are Transforming Politics...",
-        "description": "How Fear and Menace Are Transforming Politics...\r\n\n \n \n \n (Top headline, 1st story, link)\r\n\n \r\n\n \r\n\n \n Related stories:'We'll See You at Your House'...\r\n\n \r\n\n \n \n Drudge Report Feed needs your support!   Become a Patron",
-        "url": "https://dnyuz.com/2024/05/19/well-see-you-at-your-house-how-fear-and-menace-are-transforming-politics/",
-        "urlToImage": "https://dnyuz.com/wp-content/uploads/2024/05/‘Well-See-You-at-Your-House-How-Fear-and-Menace.jpg",
-        "publishedAt": "2024-05-19T10:40:44Z",
-        "content": "One Friday last month, Jamie Raskin, a Democratic congressman from Maryland, spent a chunk of his day in court securing a protective order.\r\nIt was not his first. Mr. Raskin, who played a leading rol… [+16788 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Slate Magazine"
-        },
-        "author": "Ray Hamel",
-        "title": "Think You’re Smarter Than a Slate Senior Editor? Find Out With This Week’s News Quiz.",
-        "description": "Test your knowledge of this week’s big stories.",
-        "url": "https://slate.com/news-and-politics/2024/05/slate-news-quiz-abortion-kristi-noem-campus-protests.html",
-        "urlToImage": "https://compote.slate.com/images/3c7f80c5-7b7a-4dc8-aa7c-6b50335f117c.jpeg?width=1560",
-        "publishedAt": "2024-05-03T09:55:00Z",
-        "content": "Welcome to Slates weekly news quiz. Its Friday, which means its time to test your knowledge of the weeks news events. Your host, Ray Hamel, has concocted questions on news topics ranging from politic… [+840 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "/FILM"
-        },
-        "author": "staff@slashfilm.com (Witney Seibold)",
-        "title": "How Bill Clinton Helped Shape Star Trek: Voyager Season 1",
-        "description": "The metaphor behind Star Trek: Voyager season 1 was born out of the politics of Bill Clinton&amp;#39;s presidential administration in the &amp;#39;90s.",
-        "url": "https://www.slashfilm.com/1570101/star-trek-voyager-season-1-bill-clinton-inspiration/",
-        "urlToImage": "https://www.slashfilm.com/img/gallery/how-bill-clinton-helped-shape-star-trek-voyager-season-1/l-intro-1714071960.jpg",
-        "publishedAt": "2024-05-06T16:00:34Z",
-        "content": "\"Star Trek: Voyager\" entered its early stages of production in 1993. Meanwhile, \"Star Trek: The Next Generation\" was filming its seventh and final season, and \"Star Trek: Deep Space Nine\" was working… [+1561 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "NPR"
-        },
-        "author": "Sergio Martínez-Beltrán",
-        "title": "Immigrants are wary as an appeals court weighs legality of Texas immigration law",
-        "description": "Regardless of what courts rule regarding SB4, a climate of distrust has permeated among immigrant and mixed-status families in Texas.",
-        "url": "https://www.npr.org/2024/05/22/1251422713/eagle-pass-texas-immigration-law-arrest",
-        "urlToImage": "https://media.npr.org/assets/img/2024/05/17/processed-6f339c5d-9ee7-4ef3-a0ed-9ffaa152da18_wide-2b678117a6b8278a4eb378ef1e5e247d25370655.jpeg?s=1400&c=100&f=jpeg",
-        "publishedAt": "2024-05-22T10:32:00Z",
-        "content": "A Spanish-language bible now on display at Iglesia Luterana San Lucas in Eagle Pass, Texas is believed to have been carried by a migrant when the person was washed away by the river.\r\nSergio Martínez… [+6959 chars]"
-      },
-      {
-        "source": {
-          "id": "time",
-          "name": "Time"
-        },
-        "author": "Associated Press",
-        "title": "Russian State Media is Posting More on TikTok Ahead of the U.S. Presidential Election, Study Says",
-        "description": "Russian state-affiliated accounts have boosted their use of TikTok and are getting more engagement on the short-form video platform ahead of the U.S. presidential election,",
-        "url": "https://time.com/6974213/russian-state-media-is-posting-more-on-tiktok-ahead-of-the-u-s-presidential-election-study-says/",
-        "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/Tiktok.jpg?quality=85&w=1200&h=628&crop=1",
-        "publishedAt": "2024-05-02T22:32:50Z",
-        "content": "Russian state-affiliated accounts have boosted their use of TikTok and are getting more engagement on the short-form video platform ahead of the U.S. presidential election, according to a study publi… [+1833 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "NPR"
-        },
-        "author": "Shannon Bond",
-        "title": "U.S. elections face more threats from foreign actors and artificial intelligence",
-        "description": "\"Russia remains the most active foreign threat to our elections,\" said Director of National Intelligence Avril Haines, noting that new AI technologies make influence operations easier to pull off.",
-        "url": "https://www.npr.org/2024/05/15/1251684195/election-interference-russia-china-senate-aritifical-intelligence",
-        "urlToImage": "https://media.npr.org/assets/img/2024/05/15/gettyimages-2151126448_wide-373f9653e5f71f3641b99a662d265485bd0ac4a9.jpg?s=1400&c=100&f=jpeg",
-        "publishedAt": "2024-05-15T22:58:23Z",
-        "content": "Director of National Intelligence Avril Haines testifying before a Senate hearing earlier this month. During a May 15 hearing, she identified Russia as the greatest foreign threat to this year's U.S.… [+2861 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "NPR"
-        },
-        "author": "Emily Feng",
-        "title": "China launches military drills surrounding Taiwan",
-        "description": "The drills are a warning to Taiwan's new president, who this week called on China in his inaugural address to cease its intimidation of Taiwan.\u003Cbr\u003E",
-        "url": "https://www.npr.org/2024/05/22/g-s1-138/china-launches-military-drills-surrounding-taiwan",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc5%2Fc7%2F1355d45d4247b8dfe8a3a130bc27%2Ftaiwan-fighter-jets-getty.jpg",
-        "publishedAt": "2024-05-23T08:20:42Z",
-        "content": "China has launched military drills surrounding Taiwan the week the democratic Asian island inaugurated a new president who called on China in his inaugural address to cease its political and military… [+3198 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Slashdot.org"
-        },
-        "author": "EditorDavid",
-        "title": "Trump Promises He'd Commute the Life Sentence of 'Silk Road' Founder Ross Ulbricht",
-        "description": "In 2011 Ross Ulbricht launched an anonymous, Tor-hidden \"darknet\" marketplace (with transactions conducted in bitcoin). By 2015 he'd been sentenced to life in prison for crimes including money laundering, distributing narcotics, and trafficking in fraudulent …",
-        "url": "https://politics.slashdot.org/story/24/05/26/0240239/trump-promises-hed-commute-the-life-sentence-of-silk-road-founder-ross-ulbricht",
-        "urlToImage": "https://a.fsdn.com/sd/topics/republicans_64.png",
-        "publishedAt": "2024-05-26T03:34:00Z",
-        "content": "In 2011 Ross Ulbricht launched an anonymous, Tor-hidden \"darknet\" marketplace (with transactions conducted in bitcoin). By 2015 he'd been sentenced to life in prison for crimes including money launde… [+2693 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "Katherine Tangalakis-Lippert",
-        "title": "Elon Musk and 'anti-Biden brain trust' bonded at exclusive Hollywood Hills dinner, report says",
-        "description": "Elon Musk hosted a dinner for billionaires that got political, Puck reported, and attendees discussed their distrust of Democrats like Joe Biden.",
-        "url": "https://www.businessinsider.com/elon-musk-david-sacks-dinner-anti-biden-hollywood-hills-2024-4",
-        "urlToImage": "https://i.insider.com/6631a04610dfcda40965291f?width=1200&format=jpeg",
-        "publishedAt": "2024-05-01T03:58:01Z",
-        "content": "Elon Musk (left) and Joe Biden (right).Slaven Vlasic via Getty Images; Jim Watson/AFP via Getty Images\r\n\u003Cul\u003E\u003Cli\u003EElon Musk and David Sacks hosted an elite dinner for billionaires that got political, P… [+3770 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "John L. Dorman",
-        "title": "A GOP senator says Kristi Noem is 'done' as a possible Trump running mate after revealing she killed her dog",
-        "description": "Noem wrote in her memoir that she killed her dog because it was \"dangerous,\" according to an excerpt obtained by The Guardian.",
-        "url": "https://www.businessinsider.com/kristi-noem-trump-vp-running-mate-cricket-dog-controversy-2024-5",
-        "urlToImage": "https://i.insider.com/6637c33ab8f515beaf119c54?width=1200&format=jpeg",
-        "publishedAt": "2024-05-05T17:52:58Z",
-        "content": "Gov. Kristi Noem of South Dakota.AP Photo/Alex Brandon, File\r\n\u003Cul\u003E\u003Cli\u003EGov. Kristi Noem has long been touted as a potential running mate for former President Trump.\u003C/li\u003E\u003Cli\u003EBut Noem's recent admission… [+2582 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "Brent D. Griffiths",
-        "title": "Nicole Shanahan, RFK Jr's running mate and one his his largest donors, reportedly received $1 billion in her divorce from Google's Sergey Brin after rumored Elon Musk affair",
-        "description": "Robert F. Kennedy Jr.'s running mate Nicole Shanahan has donated $10 million to his super PAC.",
-        "url": "https://www.businessinsider.com/nicole-shanahan-sergey-brin-divorce-elon-musk-money-rfk-jr-2024-5",
-        "urlToImage": "https://i.insider.com/664e544620abc1efe8fcb49f?width=1200&format=jpeg",
-        "publishedAt": "2024-05-22T21:39:28Z",
-        "content": "Attorney Nicole Shanahan has joked that Robert F. Kennedy Jr. chose her to be his running mate based on her staggering wealth,Brandon Bell/Getty Images\r\n\u003Cul\u003E\u003Cli\u003ENicole Shanahan reportedly received ov… [+3055 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "Rebecca Rommen",
-        "title": "South Dakota Gov. Kristi Noem is now barred from entering nearly 20% of her state, report says",
-        "description": "The governor has now been barred from land belonging to six of South Dakota's nine Native American tribes.",
-        "url": "https://www.businessinsider.com/south-dakota-gov-kristi-noem-barred-nearly-20-state-2024-5",
-        "urlToImage": "https://i.insider.com/66409becb4abc992e8c8b050?width=1200&format=jpeg",
-        "publishedAt": "2024-05-12T23:25:36Z",
-        "content": "Kristi Noem.John Lamparski | Getty Images\r\n\u003Cul\u003E\u003Cli\u003ESouth Dakota Gov. Kristi Noem is barred from nearly 20% of her state, The Associated Press reported.\u003C/li\u003E\u003Cli\u003EIt comes after her controversial remark… [+2839 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "Matthew Loh",
-        "title": "Russia's former president threatened nuclear attacks on Western capital cities if NATO sends any troops to Ukraine",
-        "description": "Dmitry Medvedev said leaders in Washington, Paris, and London wouldn't \"be able to hide\" if they sent troops to Ukraine.",
-        "url": "https://www.businessinsider.com/dmitry-medvedev-threatens-nuclear-attacks-western-capitals-nato-troops-ukraine-2024-5",
-        "urlToImage": "https://i.insider.com/6639b656b8f515beaf121c2f?width=1200&format=jpeg",
-        "publishedAt": "2024-05-07T05:22:39Z",
-        "content": "Russia's former president and now serving as deputy chairman of the country's Security Council, Dmitry Medvedev (L), visits the Totsky military training field outside Siberian city of Orenburg on Jul… [+3923 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "Brent D. Griffiths",
-        "title": "Kristi Noem's book has more problems than just her brutal dog-killing admission",
-        "description": "South Dakota Gov. Kristi Noem's team has admitted that at least one error will need to be corrected.",
-        "url": "https://www.businessinsider.com/kristi-noem-book-controversy-cricket-dog-killing-north-korea-haley-2024-5",
-        "urlToImage": "https://i.insider.com/6634f59810dfcda409666d71?width=1200&format=jpeg",
-        "publishedAt": "2024-05-03T14:54:24Z",
-        "content": "South Dakota Gov. Kristi Noem has faced multiple concerns over her forthcoming book.Anna Moneymaker/Getty Images\r\n\u003Cul\u003E\u003Cli\u003ESouth Dakota Gov. Kristi Noem is facing more concerns about her book.\u003C/li\u003E\u003Cli… [+3520 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "Chris Panella",
-        "title": "The US could have to deal with both Russia and China if it ends up at war with one of them, top intelligence officials say",
-        "description": "Top officials say the US is revising its plans as the possibility of war with these rivals climbs higher than it was even a few years ago.",
-        "url": "https://www.businessinsider.com/us-deal-with-russia-china-if-at-war-with-one-2024-5",
-        "urlToImage": "https://i.insider.com/663506b7ec0c69656900d11a?width=1200&format=jpeg",
-        "publishedAt": "2024-05-03T19:27:29Z",
-        "content": "U.S. Marines receive instructions before disembarking from the USS Green Bay (LPD 20) on the ship's flight deck, April 4, 2015.U.S. Marine Corps photo by Lance Cpl. Tyler Ngiraswei/ Released\r\n\u003Cul\u003E\u003Cli… [+2792 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "Thibault Spirlet,Rebecca Rommen",
-        "title": "Claims that the US bought 81 Soviet-era combat aircraft from a close Russian ally are likely false, experts say",
-        "description": "The US probably didn't purchase 81 Soviet-era combat aircraft from Kazakhstan, as the country would be too scared of alienating Russia, experts said.",
-        "url": "https://www.businessinsider.com/claims-us-buying-soviet-era-aircraft-from-kazakhstan-likely-false-2024-4",
-        "urlToImage": "https://i.insider.com/6630f31a0dfb1341e9009ce4?width=1200&format=jpeg",
-        "publishedAt": "2024-04-30T14:23:50Z",
-        "content": "Mikoyan MIG-29 fighter jets of the Polish Air Force in a NATO shielding exercise at the Lask Air Base, Poland, on October 12, 2022.Omar Marques/Getty Images\r\n\u003Cul\u003E\u003Cli\u003EReports that the US purchased 81 … [+3711 chars]"
-      },
-      {
-        "source": {
-          "id": "business-insider",
-          "name": "Business Insider"
-        },
-        "author": "Madison Hall",
-        "title": "Kristi Noem has admitted the Kim Jong Un part of her book isn't true but she read it for her audiobook anyway",
-        "description": "South Dakota Gov. Kristi Noem's forthcoming book incorrectly said she had met with Kim Jong Un. Her publisher said it's being removed immediately.",
-        "url": "https://www.businessinsider.com/kristi-noem-narrated-audiobook-lying-about-meeting-kim-jong-un-2024-5",
-        "urlToImage": "https://i.insider.com/6638ec6cb8f515beaf11b65e?width=1200&format=jpeg",
-        "publishedAt": "2024-05-06T17:07:46Z",
-        "content": "Kristi Noem's book release hasn't gone as well as she'd likely hoped.Anna Moneymaker/Getty Images\r\n\u003Cul\u003E\u003Cli\u003ESouth Dakota Gov. Kristi Noem's forthcoming book incorrectly said she had met with Kim Jong … [+2918 chars]"
-      },
-      {
-        "source": {
-          "id": "abc-news",
-          "name": "ABC News"
-        },
-        "author": "Jon Haworth",
-        "title": "Biden to give Presidential Medal of Freedom to Pelosi, Gore, Bloomberg, Yeoh and more",
-        "description": "President Joe Biden will honor 19 people with the Presidential Medal of Freedom on Friday, the nation’s highest civilian honor.",
-        "url": "https://abcnews.go.com/US/biden-set-award-presidential-medal-freedom-pelosi-al/story?id=109896417",
-        "urlToImage": "https://i.abcnewsfe.com/a/cf09e8d2-8bf0-4470-9335-bd52764fa824/biden-dinner_1714729455599_hpMain_16x9.jpg?w=1600",
-        "publishedAt": "2024-05-03T09:48:57Z",
-        "content": "President Joe Biden will honor 19 people with the Presidential Medal of Freedom on Friday, the nations highest civilian honor.\r\nThe diverse group of names from politics to activists and entertainment… [+1091 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "The Atlantic"
-        },
-        "author": "Elaine Godfrey",
-        "title": "Being an Ambassador in Washington Keeps Getting Harder",
-        "description": "American partisanship turns diplomacy into a delicate dance even for the closest of allies.",
-        "url": "https://www.theatlantic.com/politics/archive/2024/05/british-ambassador-washington-karen-pierce/678314/?utm_source=feed",
-        "urlToImage": null,
-        "publishedAt": "2024-05-07T11:00:00Z",
-        "content": "The guardian of the special relationship—the historical but possibly mythical bond between the United States and the United Kingdom—is a short woman with discerning blue eyes and a penchant for glitt… [+7551 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Rolling Stone"
-        },
-        "author": "Christian Hoard",
-        "title": "Cardi B on Proving Her Greatness: ‘I’m That Bitch, and Y’all Fucking Know It’",
-        "description": "Cardi B opens up about making her new album, her marriage to Offset, motherhood, politics, and much more in her latest 'Rolling Stone' cover story.",
-        "url": "http://www.rollingstone.com/music/music-features/cardi-b-sophomore-album-motherhood-offset-marriage-1235018536/",
-        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/05/Q947_ARA_240328_RS_Cardi_B_Look_1_0216_FNL.jpg?crop=0px%2C40px%2C1921px%2C1082px&resize=1600%2C900",
-        "publishedAt": "2024-05-16T13:00:00Z",
-        "content": "Cardi B is makeup-free and draped in an orange, impossibly plush, queen-size blanket as she shuffles into Glenwood Place Studios in Burbank, California, around nine o’clock one evening in mid-March. … [+35329 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "The New Yorker"
-        },
-        "author": "The New Yorker",
-        "title": "Robert F. Kennedy, Jr., on Why He’s Running",
-        "description": "On the Political Scene podcast: David Remnick asks R.F.K., Jr., where his run for President and his beliefs are coming from.",
-        "url": "https://www.newyorker.com/podcast/political-scene/robert-f-kennedy-jr-on-why-hes-running",
-        "urlToImage": "https://media.newyorker.com/photos/637541f23c21007776b0d0b0/16:9/w_1280,c_limit/The%20Political%20Scene%20Remnick.jpg",
-        "publishedAt": "2024-05-20T10:00:00Z",
-        "content": "Listen and subscribe:Apple | Spotify | Google | Wherever You Listen\r\nSign upto receive our twice-weekly News &amp; Politics newsletter.\r\nRobert F. Kennedy, Jr., who has never held elected office but … [+901 chars]"
-      },
-      {
-        "source": {
-          "id": "cbs-news",
-          "name": "CBS News"
-        },
-        "author": "CBSNews",
-        "title": "Screaming leads workers to tiger footprints, victim's body",
-        "description": "A team was deployed to search for the critically endangered cat after a man was found dead with wounds indicating a tiger attack.",
-        "url": "https://www.cbsnews.com/news/sumatran-tiger-attack-man-dies-search-critically-endangered-cat/?ftag=YHF4eb9d17",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Hu2h5DlbzcooAbUEIFIVOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/cbs_news_897/3068e2c6b1da7ac42d6425dc0cd59098",
-        "publishedAt": "2024-05-13T15:08:00Z",
-        "content": "A man has been found dead in western Indonesia after a suspected attack by a Sumatran tiger authorities were still hunting, a local official said Saturday, the latest case of conflict between humans … [+2318 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Yahoo Entertainment"
-        },
-        "author": "JIM VERTUNO",
-        "title": "Justice Kavanaugh says unpopular rulings can later become 'fabric of American constitutional law'",
-        "description": "Supreme Court Justice Brett Kavanaugh said Friday that U.S. history shows c ourt decisions unpopular in their time later can become part of the “fabric of...",
-        "url": "https://www.yahoo.com/news/justice-kavanaugh-says-unpopular-rulings-212131989.html",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yxRK3rYc97oxF9P1qLfjBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/5b26b08e530257df2867ff29ec721562",
-        "publishedAt": "2024-05-10T21:21:31Z",
-        "content": "AUSTIN, Texas (AP) Supreme Court Justice Brett Kavanaugh said Friday that U.S. history shows c ourt decisions unpopular in their time later can become part of the fabric of American constitutional la… [+2344 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Yahoo Entertainment"
-        },
-        "author": "JON GAMBRELL",
-        "title": "Comedian Dave Chappelle calls Israel-Hamas war a 'genocide,' urges Americans to fight antisemitism",
-        "description": "American comedian Dave Chappelle called the Israeli war on Hamas in Gaza a “genocide” Thursday to cheers during his performance in the capital of the United ...",
-        "url": "https://www.yahoo.com/entertainment/comedian-dave-chappelle-calls-israel-194425293.html",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3kEPGXr1dnApicUGJ9Y4kg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTM-/https://media.zenfs.com/en/ap.org/2b68da48a509527f82b01e6800148f5f",
-        "publishedAt": "2024-05-23T19:44:25Z",
-        "content": "ABU DHABI, United Arab Emirates (AP) American comedian Dave Chappelle called the Israeli war on Hamas in Gaza a genocide Thursday to cheers during his performance in the capital of the United Arab Em… [+2122 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Yahoo Entertainment"
-        },
-        "author": "Dene-Hern CHEN and Amber WANG",
-        "title": "Tens of thousands protest Taiwan parliament bills to 'defend democracy'",
-        "description": "Tens of thousands of Taiwanese protesters rallied day and night outside parliament on Friday, as lawmakers inside traded insults, blows and theatrics over a ...",
-        "url": "https://www.yahoo.com/news/tens-thousands-protest-taiwan-parliament-152204056.html",
-        "urlToImage": "https://media.zenfs.com/en/afp.com/cd1a0cc0587c4c3b3eb779d97f633a27",
-        "publishedAt": "2024-05-24T15:22:04Z",
-        "content": "Tens of thousands of Taiwanese protesters rallied day and night outside parliament on Friday, as lawmakers inside traded insults, blows and theatrics over a series of bills to expand the legislature'… [+2369 chars]"
-      },
-      {
-        "source": {
-          "id": "time",
-          "name": "Time"
-        },
-        "author": "Judy Berman",
-        "title": "Black Panthers Meet New Hollywood in the Bold, Thrilling Series The Big Cigar",
-        "description": "Apple TV+'s bold, thrilling miniseries tells the stranger-than-fiction story of how a Hollywood radical helped Black Panthers leader Huey P. Newton escape the U.S.",
-        "url": "https://time.com/6978370/the-big-cigar-review-apple/",
-        "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/The_Big_Cigar_Photo_010201.jpg?quality=85&w=1200&h=628&crop=1",
-        "publishedAt": "2024-05-16T13:00:00Z",
-        "content": "Huey P. Newton would have been skeptical of The Big Cigar, a miniseries that dramatizes his flight from the U.S. to Cuba in 1974and the show is the first to admit it. The story Im about to tell you i… [+6068 chars]"
-      },
-      {
-        "source": {
-          "id": "time",
-          "name": "Time"
-        },
-        "author": "RON TODT / AP",
-        "title": "6 Penn Students Among Pro-Palestinian Protesters Arrested During Attempt to Occupy Building",
-        "description": "The University of Pennsylvania students were among 19 pro-Palestinian protesters arrested during an attempt to occupy a school building.",
-        "url": "https://time.com/6979767/penn-students-arrested-pro-palestinian-demonstration-occupy-building/",
-        "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/AP24139710768021.jpg?quality=85&w=1200&h=628&crop=1",
-        "publishedAt": "2024-05-18T19:51:22Z",
-        "content": "PHILADELPHIA A half-dozen University of Pennsylvania students were among 19 pro-Palestinian protesters arrested during an attempt to occupy a school building, university police said Saturday.\r\nTheir … [+4957 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "The Intercept"
-        },
-        "author": "Murtaza Hussain",
-        "title": "Israel Wants Endless War Without the Politics. Biden’s Going Along for the Doomed Ride.",
-        "description": "This isn’t “politics by other means,” it’s never-ending conflict. \nThe post Israel Wants Endless War Without the Politics. Biden’s Going Along for the Doomed Ride. appeared first on The Intercept.",
-        "url": "http://theintercept.com/2024/05/15/israel-palestine-forever-war-biden-gaza/",
-        "urlToImage": "https://theintercept.com/wp-content/uploads/2024/05/GettyImages-2151576366_a803f1-e1715718749357.jpg?fit=6000%2C3000&w=1200&h=800",
-        "publishedAt": "2024-05-15T09:00:00Z",
-        "content": "Israeli army battle tanks near the border with the Gaza Strip on May 9, 2024.Photo: Ahmad Gharabli/AFP via Getty Images\r\nThe legendary Prussian\r\n military theorist Carl von Clausewitz, whose works re… [+7809 chars]"
-      },
-      {
-        "source": {
-          "id": "ars-technica",
-          "name": "Ars Technica"
-        },
-        "author": "Jennifer Ouellette",
-        "title": "The Boys S4 trailer brings us more bloody mayhem and “Homelander on Ice”",
-        "description": "\"You will no longer be beloved celebrities. You will be wrathful gods. Show me a little wrath.\"",
-        "url": "https://arstechnica.com/culture/2024/05/the-boys-s4-trailer-brings-us-more-bloody-mayhem-and-homelander-on-ice/",
-        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/boysLIST-760x380.jpg",
-        "publishedAt": "2024-05-04T21:23:51Z",
-        "content": "4\r\nThe long-awaited fourth season of the Prime Video series, The Boys, premieres on June 13, 2024 \r\nLast summer's Hollywood strikes delayed a number of releases, among them the fourth season of Prime… [+5500 chars]"
-      },
-      {
-        "source": {
-          "id": "time",
-          "name": "Time"
-        },
-        "author": "Anna Gordon",
-        "title": "Why Biden Is Taking a Hard Line on Chinese EVs",
-        "description": "The U.S. is slapping new tariffs of 100% on Chinese EVs, in a move likely to inflame trade tensions. Here's what to know.",
-        "url": "https://time.com/6977780/biden-hardline-chinese-electric-vehicles/",
-        "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/biden-china-EV.jpg?quality=85&w=1024&h=628&crop=1",
-        "publishedAt": "2024-05-14T11:21:52Z",
-        "content": "The Biden Administration has announced new tariffs on Tuesday for Chinese made electric vehicles, quadrupling the current tariff from 27.5% to 102.5%, as well as new tariffs on solar cells, steel, an… [+2369 chars]"
-      },
-      {
-        "source": {
-          "id": "time",
-          "name": "Time"
-        },
-        "author": "Anna Gordon",
-        "title": "Duchess of Edinburgh Becomes First British Royal to Visit Ukraine Since Russia’s Invasion",
-        "description": "Sophie, the Duchess of Edinburgh, is the first member of the royal family to visit Ukraine since February 2022.",
-        "url": "https://time.com/6972635/sophie-uk-royals-ukraine-trip/",
-        "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/sophie-royal-ukraine.jpg?quality=85&w=1024&h=628&crop=1",
-        "publishedAt": "2024-04-30T11:42:39Z",
-        "content": "Sophie, the Duchess of Edinburgh, became the first member of the British royal family to visit Ukraine since Russia launched its full scale invasion of the country in February 2022. Sophie is the wif… [+2217 chars]"
-      },
-      {
-        "source": {
-          "id": "time",
-          "name": "Time"
-        },
-        "author": "LISA MASCARO, MEG KINNARD and MICHELLE L. PRICE / AP",
-        "title": "Republican National Committee’s Headquarters Evacuated After Vials of Blood Are Addressed to Trump",
-        "description": "Hazardous-materials teams were called in after two vials of blood addressed to Trump were discovered, according to the U.S. Capitol Police",
-        "url": "https://time.com/6981154/republican-national-committees-headquarters-evacuated-after-vials-of-blood-are-addressed-to-trump/",
-        "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/RNC.jpg?quality=85&w=1200&h=628&crop=1",
-        "publishedAt": "2024-05-22T20:45:18Z",
-        "content": "Washington The Republican National Committee's Washington headquarters was briefly evacuated on Wednesday as police investigated two vials of blood that had been addressed to former President Donald … [+2554 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Phys.Org"
-        },
-        "author": "Science X",
-        "title": "AI and social media may be fueling the climate crisis, say researchers",
-        "description": "Generative artificial intelligence and social media can undermine efforts to address climate change, argue researchers in a new forum article published in the journal Global Environmental Politics.",
-        "url": "https://phys.org/news/2024-05-ai-social-media-fueling-climate.html",
-        "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2018/socialmedia.jpg",
-        "publishedAt": "2024-05-09T20:40:03Z",
-        "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+259 chars]"
-      },
-      {
-        "source": {
-          "id": "abc-news",
-          "name": "ABC News"
-        },
-        "author": "Alexandra Hutzler",
-        "title": "Biden, speaking on protests, says both free speech and rule of law 'must be upheld'",
-        "description": "President Joe Biden on Thursday spoke from the White House on college protests happening across the nation in connection with the Israel-Hamas war.",
-        "url": "https://abcnews.go.com/Politics/biden-speaks-college-protests-israel-gaza-war/story?id=109870179",
-        "urlToImage": "https://i.abcnewsfe.com/a/3cba7e80-d393-4d12-a406-c388a6352579/joe-biden-5-gty-bb-240502_1714663321607_hpMain_16x9.jpg?w=1600",
-        "publishedAt": "2024-05-02T15:32:24Z",
-        "content": "President Joe Biden on Thursday spoke from the White House on college protests happening across the nation in connection with the Israel-Hamas war.\r\n\"We've all seen images, and they put to the test t… [+1743 chars]"
-      }
-    ]
-  }
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+  
+    {
+      "source": {
+        "id": null,
+        "name": "autosport.com"
+      },
+      "author": "Joey Barnes",
+      "title": "Indy 500: Newgarden beats O'Ward for back-to-back wins - Autosport",
+      "description": "Team Penskes Josef Newgarden fought off Pato OWard in a last-lap showdown to take back-to-back Indianapolis 500 victories.",
+      "url": "https://www.autosport.com/indycar/news/indy-500-newgarden/10616310/",
+      "urlToImage": "https://cdn-7.motorsport.com/images/amp/YpNMQaj0/s6/josef-newgarden-team-penske-ch.jpg",
+      "publishedAt": "2024-05-27T07:05:52Z",
+      "content": "Despite a four-hour rain delay, the clouds diminished and an intense battle finished as the sun set on more than 300,000 fans at the Indianapolis Motor Speedway.\r\nNewgarden, who started third, was fo… [+2798 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "HYUNG-JIN KIM, HUIZHONG WU",
+      "title": "South Korea, China and Japan resume trilateral meeting to revive cooperation - The Associated Press",
+      "description": "China’s premier has agreed to revive three-way cooperation with South Korea and Japan in the face of shared challenges but issued a veiled rebuke against the two countries’ expanding security cooperation with the United States. Chinese Premier Li Qiang met So…",
+      "url": "https://apnews.com/article/south-korea-china-japan-trilateral-6afe4c3e280995a7fc16696edbd0a345",
+      "urlToImage": "https://dims.apnews.com/dims4/default/aac5b44/2147483647/strip/true/crop/3689x2075+140+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F70%2Fd1%2Ffcdf1693f8fc1d050145ec397269%2F6a871a2e88314e7ba57d989eee2da6e1",
+      "publishedAt": "2024-05-27T06:51:00Z",
+      "content": "SEOUL, South Korea (AP) Chinas premier agreed Monday to revive three-way cooperation with South Korea and Japan in the face of shared challenges, but issued a veiled rebuke against the two countries … [+5972 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "GERALD IMRAY",
+      "title": "South Africa's election could bring the biggest political shift since it became a democracy in 1994 - The Associated Press",
+      "description": "South Africans will vote Wednesday to decide whether their country takes its most significant political step since it brought down apartheid and achieved democracy 30 years ago. This national election will not be as momentous as the one South Africa held in 1…",
+      "url": "https://apnews.com/article/south-africa-election-anc-apartheid-9215778b4184e2fcb02a9008f3558975",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d406b20/2147483647/strip/true/crop/5500x3094+0+286/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5b%2F2f%2Fcb89b926059abb8024ea7680cee1%2F8f8adbb2ed5a47b383bae7208ca060ae",
+      "publishedAt": "2024-05-27T05:01:00Z",
+      "content": "CAPE TOWN, South Africa (AP) South Africans will vote Wednesday to decide whether their country will take its most significant political step since the moment 30 years ago when it brought down aparth… [+5740 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTVI Fox 2 St. Louis"
+      },
+      "author": "Chris Higgins, Max Diekneite",
+      "title": "Severe weather brings hail, tornado warnings to St. Louis area - KTVI Fox 2 St. Louis",
+      "description": "The St. Louis region was slammed by severe weather late afternoon and early Sunday evening. A storm system moved over the entire viewing area, leading to tornado warnings, heavy rain, and plenty of hail piling up quickly across the area in various sizes.",
+      "url": "https://fox2now.com/news/missouri/severe-weather-brings-hail-tornado-warnings-to-st-louis-area/",
+      "urlToImage": "https://fox2now.com/wp-content/uploads/sites/14/2024/05/snapshot-13-3.jpg?w=1280",
+      "publishedAt": "2024-05-27T03:59:52Z",
+      "content": "ST. LOUIS The St. Louis region was slammed by severe weather late afternoon and early Sunday evening. A storm system moved over the entire viewing area, leading to tornado warnings, heavy rain, and p… [+218 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "France to lift state of emergency in efforts to allow political dialogue in riot-hit New Caledonia - The Associated Press",
+      "description": "French President Emmanuel Macron has decided to lift the state of emergency in the French Pacific territory of New Caledonia. Macron's office said the move is meant to allow political dialogue following the unrest that left seven dead and a trail of destructi…",
+      "url": "https://apnews.com/article/new-caledonia-france-kanak-097b74f915c025c4a3fae8ca73f4e28a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/0c6bd0e/2147483647/strip/true/crop/7952x4473+0+415/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc6%2F27%2F5eb42a6007a06a5a7e61f36b06d9%2Fe578644a38a74759bd49e1dca5ede513",
+      "publishedAt": "2024-05-27T03:52:00Z",
+      "content": "PARIS (AP) French President Emmanuel Macron decided Monday to lift the state of emergency in the French Pacific territory of New Caledonia in a move meant to allow political dialogue following the un… [+2577 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ryan Young",
+      "title": "NBA playoffs: Luka Dončić, Mavericks power past Anthony Edwards to take a 3-0 lead over Timberwolves - Yahoo Sports",
+      "description": "The Mavericks are now just one win away from their first NBA Finals trip since 2011.",
+      "url": "https://sports.yahoo.com/nba-playoffs-luka-doncic-mavericks-power-past-anthony-edwards-to-take-a-3-0-lead-over-timberwolves-024023251.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VaLCSmmw628fKmbty._s6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/8a404f80-1bd1-11ef-bfba-149ad8772b2d",
+      "publishedAt": "2024-05-27T03:41:00Z",
+      "content": "Anthony Edwards turned it on in the second half on Sunday night in an attempt to keep the Minnesota Timberwolves season alive.\r\nHis run, though, came just a bit too late.\r\nLuka Doni and the Dallas Ma… [+4083 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WZTV"
+      },
+      "author": "Adrian Mojica",
+      "title": "CODE RED ALERT: All of Middle Tennessee placed under Tornado Watch - WZTV",
+      "description": "NASHVILLE, Tenn.--Parts of Middle Tennessee, including Nashville, have been upgraded to a 'Moderate' risk (Level 4 of 5) of severe weather Sunday night into Mon",
+      "url": "https://fox17.com/news/local/code-red-alert-upgraded-risk-for-severe-storms-tornadoes-in-middle-tennessee-tonight",
+      "urlToImage": "https://fox17.com/resources/media/5a33a3fa-2148-4a20-ba57-7f32cf8e17cb-large16x9_GOjY9HNaEAEMpQP.jpg",
+      "publishedAt": "2024-05-27T03:11:15Z",
+      "content": "UPDATE (5/26 11:03pm): The National Weather Service has issued a Special Weather Statement for Davidson, Macon, Robertson, Smith, Sumner, Trousdale, and Wilson Counties.\r\n50 mph wind gusts and half i… [+1509 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters.com",
+      "title": "Shares of China Evergrande's EV unit soar after liquidators' stake sale deal - Reuters.com",
+      "description": null,
+      "url": "https://www.reuters.com/markets/deals/shares-china-evergrandes-ev-unit-soar-after-liquidators-stake-sale-deal-2024-05-27/",
+      "urlToImage": null,
+      "publishedAt": "2024-05-27T03:01:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Jeff Passan",
+      "title": "Braves' Ronald Acuña Jr. out for season with torn left ACL - ESPN",
+      "description": "Reigning NL MVP Ronald Acuña Jr. tore the ACL in his left knee Sunday and will miss the rest of the season, a significant blow to a Braves team that already lost ace Spencer Strider to Tommy John surgery.",
+      "url": "https://www.espn.com/mlb/story/_/id/40226101/atlanta-braves-ronald-acuna-jr-season-torn-acl",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0526%2Fr1338003_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-05-27T02:33:46Z",
+      "content": "Reigning National League MVP Ronald Acuña Jr. tore the ACL in his left knee Sunday and will miss the remainder of the season, a significant blow to an Atlanta Braves team that already lost ace Spence… [+3860 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Tornadoes and storms leave 15 dead across central US - BBC.com",
+      "description": "Powerful storms devastate areas in Texas, Arkansas and Oklahoma and leave hundreds of thousands without power.",
+      "url": "https://www.bbc.com/news/articles/cxxxp1w6e2ro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5994/live/0c97b8e0-1b9d-11ef-8c15-3791830f2b23.jpg",
+      "publishedAt": "2024-05-27T02:19:35Z",
+      "content": "Holly Honderich,in Washington\r\nA mobile home park in northern Texas smashed by the tornado\r\nAt least 15 people were killed as tornadoes and storms tore across central areas of the US, destroying home… [+4078 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Dublin passengers recall 'panic' as Doha plane hit turbulence - BBC.com",
+      "description": "People from a Dublin-bound plane from Doha describe scenes on board during severe turbulence.",
+      "url": "https://www.bbc.com/news/av/world-europe-69064916",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7570/production/_133346003_p0j0hm59.jpg",
+      "publishedAt": "2024-05-27T02:17:34Z",
+      "content": "Passengers who were on board a Dublin-bound flight which experienced severe turbulence have described seeing people 'hit the ceiling' when the aircraft dropped very suddenly.\r\nTwelve people was injur… [+234 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Reuters",
+      "title": "Britain’s Prime Minister Rishi Sunak pitches national service at 18 - CNN",
+      "description": "Britain’s Conservative Party will introduce mandatory national service for 18-year-olds, comprising military or community participation, if it wins the national election on July 4, the UK’s leader said on Sunday.",
+      "url": "https://www.cnn.com/2024/05/26/europe/national-service-britain-uk-sunak-intl-latam/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-05-22t193536z-1410388031-rc2vv7a9nmdc-rtrmadp-3-britain-election.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-27T02:09:00Z",
+      "content": "Britains Conservative Party will introduce mandatory national service for 18-year-olds if it wins the national election on July 4, comprising military or community participation, Prime Minister Rishi… [+1643 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Trying to buy a house is 'playing a game you can't win' - BBC.com",
+      "description": "The US housing market has changed dramatically since the pandemic - an issue looming over the election.",
+      "url": "https://www.bbc.com/news/articles/cmj66r4lvzzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1eaa/live/5c4b5060-147a-11ef-87f2-97663bbe6622.jpg",
+      "publishedAt": "2024-05-27T01:50:06Z",
+      "content": "Natalie Sherman,Business reporter, BBC News\r\nWhen Nathan Wilkins moved back in with his mother and sister in 2019, he hoped it would help him save money to buy a home. \r\nBut in the years since, the U… [+8184 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Associated Press",
+      "title": "Davis Riley holds off Scottie Scheffler to win Charles Schwab Challenge as golf mourns Grayson Murray - New York Post ",
+      "description": "The final round was played on the day that Grayson Murray’s parents said their 30-year-old son took his own life Saturday.",
+      "url": "https://nypost.com/2024/05/26/sports/davis-riley-wins-at-colonial-as-pga-tour-mourns-grayson-murray/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/newspress-collage-zgpln9t5f-1716771007676.jpg?quality=75&strip=all&1716756676&w=1024",
+      "publishedAt": "2024-05-27T00:58:00Z",
+      "content": "FORT WORTH, Texas Davis Riley was practicing a week before Colonial when he got an unsettling call that his older sister had a seizure at work, which led to the discovery of a tumor on her brain and … [+5702 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Chris Gardner",
+      "title": "Taylor Swift Performs in Portugal for First Time, Praises Crowds for Eras Tour Love During Emotional Speech: “Took My Breath Away” - Hollywood Reporter",
+      "description": "The superstar singer performed in Portugal for the first time ever over the weekend at back-to-back, sold-out shows at Estádio da Luz on the European leg of her Eras Tour.",
+      "url": "http://www.hollywoodreporter.com/news/music-news/taylor-swift-eras-tour-europe-lisbon-dates-1235909432/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/05/FotoJet-25.jpg?w=1024",
+      "publishedAt": "2024-05-27T00:52:12Z",
+      "content": "In a nearly two-decade career, Taylor Swift had never performed in Portugal… until this weekend. \r\nThe superstar singer brought The Eras Tour to Lisbon for two back-to-back, sold-out stops at Estádio… [+5402 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Axios",
+      "title": "Trump's longshot Libertarian nomination bid halted by party chair - Axios",
+      "description": null,
+      "url": "https://www.axios.com/2024/05/26/trump-libertarian-rfk-jr-ineligible-nominee",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T23:49:44Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Chris Willman",
+      "title": "The Beach Boys and Director Frank Marshall on the Band’s Disney+ Doc: ‘We May Not Have Been Great Surfers, but We Sang About It Really Well’ - Variety",
+      "description": "Mike Love and Al Jardine and director Frank Marshall talk about the Disney+ doc 'The Beach Boys' and subjects like their friendly Beatles rivalry.",
+      "url": "https://variety.com/2024/music/news/beach-boys-documentary-interview-frank-marshall-1236016901/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/05/BB-full-AR5_7197_Rl0EIR87.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2024-05-26T23:43:00Z",
+      "content": "If Memorial Day weekend is the unofficial start of summer on most Americans’ calendars, then it makes sense that the real tentpole kicking off tent season for a lot of people is not “Furiosa” or “Gar… [+15334 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Axios",
+      "title": "Israeli airstrike kills dozens in Rafah tent camp, Gaza authorities say - Axios",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA1LzI2L3JhZmFoLXRlbnQtY2FtcC1pc3JhZWwtYWlyc3RyaWtl0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T23:37:38Z",
+      "content": null
+    }
+  ]
+}
