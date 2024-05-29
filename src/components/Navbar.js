@@ -4,7 +4,7 @@ import React, { Component } from 'react'
 export default class Navbar extends Component {
 
 
-    
+
 
     render() {
 
@@ -13,7 +13,7 @@ export default class Navbar extends Component {
             <div>
                 <nav className={`navbar navbar-expand-lg navbar-${mode}`} style={{
                     backgroundColor: mode === 'light' ? '#C9E49D' : '#406E6E',
-                
+
                 }}>
                     <div className="container-fluid ">
                         <a className="navbar-brand" href="/"> <b>SamacharApp</b> </a>
@@ -30,7 +30,7 @@ export default class Navbar extends Component {
                                 </li>
                             </ul>
                             <div className="form-check form-switch">
-                                <input className="form-check-input" onClick={setMode} type="checkbox"  role="switch" id="flexSwitchCheckDefault" />
+                                <input className="form-check-input" onClick={setMode} type="checkbox" role="switch" id="flexSwitchCheckDefault" />
                             </div>
                         </div>
                     </div>

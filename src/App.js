@@ -12,23 +12,23 @@ export default class App extends Component {
     }
   }
 
-  
+
 
 
   render() {
 
     return (
       <div>
-        <Navbar mode = {this.state.mode} setMode = {() =>{
-          if(this.state.mode === 'light'){
-            this.setState({mode:'dark'});
+        <Navbar mode={this.state.mode} setMode={() => {
+          if (this.state.mode === 'light') {
+            this.setState({ mode: 'dark' });
             document.body.style.backgroundColor = '#743232';
-          }else{
-            this.setState({mode:'light'});
+          } else {
+            this.setState({ mode: 'light' });
             document.body.style.backgroundColor = '#B89DE4';
           }
         }} />
-        <News mode = {this.state.mode} />
+        <News mode={this.state.mode} />
       </div>
     )
   }
