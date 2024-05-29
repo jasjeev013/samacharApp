@@ -1,0 +1,14 @@
+.card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+    box-shadow: 1px 1px 36px 7px #00000033;
+    
+}
+
+
+.imgs {
+    width: calc(100% - 8px);
+    height: calc(100% - 10px);
+    border-radius: 20px;
+}
+
