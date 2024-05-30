@@ -7,15 +7,33 @@ export class News extends Component {
         super();
         this.state = {
             articles: [],
-            loading: false
+            loading: false,
+            page: 1,
         }
     }
 
+
+
     async componentDidMount() {
-        let url = 'https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=f0d8402b7c0046bf9c770fd27632ec28';
+        let url = `https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=f0d8402b7c0046bf9c770fd27632ec28&page=${this.state.page}&pageSize=20`;
         let data = await fetch(url);
         let parsedData = await data.json();
-        this.setState({ articles: parsedData.articles });
+        this.setState({ articles: parsedData.articles, totalResults: parsedData.totalResults   });
+    }
+
+    handlePreviousClick = () => {
+        this.setState({
+            page: --this.state.page
+        })
+        this.componentDidMount();
+    }
+    handleNextClick = () => {
+
+        this.setState({
+            page: ++this.state.page
+        })
+
+        this.componentDidMount();
     }
     render() {
         let { mode } = this.props;
@@ -38,6 +56,10 @@ export class News extends Component {
 
                         </div>);
                     })}
+                </div>
+                <div className="container d-flex justify-content-between">
+                    <button disabled={this.state.page <= 1} type="button" className="btn btn-dark" onClick={this.handlePreviousClick}> &larr;  Prev </button>
+                    <button disabled={this.state.page>= Math.ceil(this.state.totalResults/20)} type="button" className="btn btn-dark" onClick={this.handleNextClick}>Next &rarr; </button>
                 </div>
             </div>
         )
