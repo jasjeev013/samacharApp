@@ -9,19 +9,24 @@ export class NewsItem extends Component {
 
     render() {
 
-        let { title, description, imageUrl, newsUrl, mode } = this.props;
+        let { title, description, imageUrl, newsUrl, publishedAt, author, mode } = this.props;
         return (
             <div className="card mx-2 my-3" style={{
-                width: '18rem',
+
                 backgroundColor: (mode === 'light') ? '#D3712C' : '#490D0D',
                 color: 'white',
                 borderRadius: '20px'
             }} >
-                <img src={(imageUrl === null) ? this.noPhotoSource : imageUrl} className=" imgs card-img-top mx-1 my-1" alt="🤒🤒" />
+                <img src={(imageUrl === null) ? this.noPhotoSource : imageUrl} className=" imgs card-img-top mx-1 my-1" alt='Not Found' />
                 <div className="card-body">
-                    <h5 className="card-title">{title}...</h5>
+                    <h5 className="card-title"> {title}...</h5>
                     <p className="card-text">{description}...</p>
-                    <a rel="noreferrer"  href={newsUrl} target='_blank' className="btn btm-sm btn-primary">Read More</a>
+                    <p className="card-text" style={{
+                        color: (mode === 'light') ? '#000000' : '#FFFFFF',
+                        fontSize: 'calc(100% - 3px)'
+
+                    }} ><small ><i> Published {author != null && `By: ${author}`} At {new Date(publishedAt).toUTCString()}</i></small></p>
+                    <a rel="noreferrer" href={newsUrl} target='_blank' className="btn btm-sm btn-primary">Read More</a>
                 </div>
             </div>
         )
