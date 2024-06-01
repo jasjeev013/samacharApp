@@ -1,10 +1,19 @@
-.card:hover {
-    transform: scale(1.05);
-    transition: transform 0.3s ease;
-    box-shadow: 1px 1px 36px 7px #00000033;
-
+:root {
+    --box-shadow-color: #00000033;
 }
 
+.card {
+    /* Your existing styles here */
+
+    /* Add hover styles */
+    transition: transform 0.3s ease;
+    /* box-shadow: 1px 1px 36px 7px var(--box-shadow-color); */
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 1px 1px 36px 7px var(--box-shadow-color);
+}
 
 .imgs {
     width: calc(100% - 8px);
