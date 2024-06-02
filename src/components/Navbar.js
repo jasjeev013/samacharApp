@@ -58,12 +58,12 @@ function Navbar(props) {
                                 <i><small>Country</small></i>
                             </button>
                             <ul  className="dropdown-menu" style={customDropdownMenuStyle} >
-                                <li><button className="dropdown-item " onClick={()=>updateCountry('in')} ><small>India</small> </button></li>
-                                <li><button className="dropdown-item " onClick={()=>updateCountry('us')}><small>USA</small></button></li>
-                                <li><button className="dropdown-item " onClick={()=>updateCountry('fr')}><small>France</small></button></li>
-                                <li><button className="dropdown-item " onClick={()=>updateCountry('it')}><small>Italy</small></button></li>
-                                <li><button className="dropdown-item " onClick={()=>updateCountry('ru')}><small>Russia</small></button></li>
-                                <li><button className="dropdown-item " onClick={()=>updateCountry('ch')}><small>China</small></button></li>
+                                <li><Link className="dropdown-item " to="/" onClick={()=>updateCountry('in')} ><small>India</small> </Link></li>
+                                <li><Link className="dropdown-item " to="/" onClick={()=>updateCountry('us')}><small>USA</small></Link></li>
+                                <li><Link className="dropdown-item " to="/" onClick={()=>updateCountry('fr')}><small>France</small></Link></li>
+                                <li><Link className="dropdown-item " to="/" onClick={()=>updateCountry('it')}><small>Italy</small></Link></li>
+                                <li><Link className="dropdown-item " to="/" onClick={()=>updateCountry('ru')}><small>Russia</small></Link></li>
+                                <li><Link className="dropdown-item " to="/" onClick={()=>updateCountry('ch')}><small>German</small></Link></li>
                             </ul>
                         </div>
                         <div className="form-check form-switch">
