@@ -4,6 +4,8 @@ import Navbar from './components/Navbar';
 import News from './components/News';
 import {BrowserRouter as Router,Routes,Route,} from "react-router-dom";
 import LoadingBar from 'react-top-loading-bar'
+import Home from './components/Home';
+import About from './components/About';
 
 function App() {
 
@@ -48,6 +50,7 @@ function App() {
 
         />
         <Routes>
+          <Route exact path="/" element={<Home mode={mode}/>} />
           <Route exact path="/business" element={<News key="business" apiKey={apiKey} setProgress={updateProgress} mode={mode} pageSize={pageSize} category="business" country={country} />} />
           <Route exact path="/entertainment" element={<News key="entertainment" apiKey={apiKey} setProgress={updateProgress} mode={mode} pageSize={pageSize} category="entertainment" country={country} />} />
           <Route exact path="/general" element={<News key="general" apiKey={apiKey} setProgress={updateProgress} mode={mode} pageSize={pageSize} category="general" country={country} />} />
@@ -55,6 +58,7 @@ function App() {
           <Route exact path="/science" element={<News key="science" apiKey={apiKey} setProgress={updateProgress} mode={mode} pageSize={pageSize} category="science" country={country} />} />
           <Route exact path="/sports" element={<News key="sports" apiKey={apiKey} setProgress={updateProgress} mode={mode} pageSize={pageSize} category="sports" country={country} />} />
           <Route exact path="/technology" element={<News key="technology" apiKey={apiKey} setProgress={updateProgress} mode={mode} pageSize={pageSize} category="technology" country={country} />} />
+          <Route exact path="/about" element={<About/>} />
 
 
         </Routes>

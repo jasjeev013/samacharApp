@@ -7,14 +7,14 @@ function Navbar(props) {
     const customDropdownMenuStyle = {
         '--bs-dropdown-min-width': '6rem'
     };
-    let { mode, setMode , updateCountry } = props;
+    let { mode, setMode, updateCountry } = props;
     return (
         <div>
             <nav className={`navbar fixed-top navbar-expand-lg navbar-${mode}`} style={{
                 backgroundColor: mode === 'light' ? '#C9E49D' : '#406E6E',
             }}>
                 <div className="container-fluid ">
-                    <Link className="navbar-brand" to="/general"> <b>SamacharApp</b> </Link>
+                    <Link className="navbar-brand" to="/"> <b>SamacharApp</b> </Link>
 
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
@@ -22,7 +22,7 @@ function Navbar(props) {
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                             <li className="nav-item">
-                                <Link className="nav-link active" aria-current="page" to="/general">Home</Link>
+                                <Link className="nav-link active" aria-current="page" to="/">Home</Link>
                             </li>
                             <li className="nav-item">
                                 <Link className="nav-link" to="/business">Buisness</Link>
@@ -46,7 +46,7 @@ function Navbar(props) {
                                 <Link className="nav-link" to="/technology">Technology</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/">About</Link>
+                                <Link className="nav-link" to="/about">About</Link>
                             </li>
 
                         </ul>
@@ -57,13 +57,13 @@ function Navbar(props) {
                             }}>
                                 <i><small>Country</small></i>
                             </button>
-                            <ul  className="dropdown-menu" style={customDropdownMenuStyle} >
-                                <li><Link className="dropdown-item " to="/" onClick={()=>updateCountry('in')} ><small>India</small> </Link></li>
-                                <li><Link className="dropdown-item " to="/" onClick={()=>updateCountry('us')}><small>USA</small></Link></li>
-                                <li><Link className="dropdown-item " to="/" onClick={()=>updateCountry('fr')}><small>France</small></Link></li>
-                                <li><Link className="dropdown-item " to="/" onClick={()=>updateCountry('it')}><small>Italy</small></Link></li>
-                                <li><Link className="dropdown-item " to="/" onClick={()=>updateCountry('ru')}><small>Russia</small></Link></li>
-                                <li><Link className="dropdown-item " to="/" onClick={()=>updateCountry('ch')}><small>German</small></Link></li>
+                            <ul className="dropdown-menu" style={customDropdownMenuStyle} >
+                                <li><Link className="dropdown-item " to="/" onClick={() => { updateCountry('in') }} ><small>India</small> </Link></li>
+                                <li><Link className="dropdown-item " to="/" onClick={() => updateCountry('us')}><small>USA</small></Link></li>
+                                <li><Link className="dropdown-item " to="/" onClick={() => updateCountry('fr')}><small>France</small></Link></li>
+                                <li><Link className="dropdown-item " to="/" onClick={() => updateCountry('it')}><small>Italy</small></Link></li>
+                                <li><Link className="dropdown-item " to="/" onClick={() => updateCountry('ru')}><small>Russia</small></Link></li>
+                                <li><Link className="dropdown-item " to="/" onClick={() => updateCountry('ch')}><small>German</small></Link></li>
                             </ul>
                         </div>
                         <div className="form-check form-switch">
@@ -72,6 +72,7 @@ function Navbar(props) {
                     </div>
                 </div>
             </nav>
+            
         </div>
     )
 }

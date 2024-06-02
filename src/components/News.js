@@ -63,7 +63,7 @@ function News(props) {
                 textAlign: 'center',
                 marginTop: '90px'
 
-            }}> <i><b> ---- 📰 TOP HEADLINES 📰 ----- </b></i>  </h1>
+            }}> <i><b> ---- 📰 TOP {props.category.toUpperCase()} HEADLINES 📰 ----- </b></i>  </h1>
             {loading && <Spinner />}
 
             <InfiniteScroll
