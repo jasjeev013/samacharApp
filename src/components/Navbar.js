@@ -3,11 +3,25 @@ import { Link } from 'react-router-dom';
 
 function Navbar(props) {
 
+  
 
     const customDropdownMenuStyle = {
         '--bs-dropdown-min-width': '6rem'
     };
-    let { mode, setMode, updateCountry } = props;
+    let { mode, setMode, updateCountry , updateSearch } = props;
+
+
+
+    
+    function getSearch(){
+        let search = document.getElementById('searchNews').value;
+        updateSearch(search);
+        // console.log(search);
+        document.getElementById('searchNews').value = '';
+        // window.location.href = '/search';
+    }
+
+    
     return (
         <div>
             <nav className={`navbar fixed-top navbar-expand-lg navbar-${mode}`} style={{
@@ -50,6 +64,12 @@ function Navbar(props) {
                             </li>
 
                         </ul>
+                        <form className="d-flex " role="search"  style={{
+                            marginRight:'7rem'
+                        }}>
+                            <input className="form-control me-2" type="search"  id="searchNews" placeholder="Search" aria-label="Search"/>
+                                <Link  className="btn btn-outline-success" to="/search" onClick={getSearch} type="submit">Search</Link>
+                        </form>
                         <div className="btn-group mx-4">
                             <button type="button" className="btn btn-sm dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false" style={{
                                 backgroundColor: mode === 'light' ? '#D3712C' : '#490D0D',
@@ -72,7 +92,7 @@ function Navbar(props) {
                     </div>
                 </div>
             </nav>
-            
+
         </div>
     )
 }

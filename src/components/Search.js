@@ -1,12 +1,10 @@
-
 import React, { useEffect, useState } from 'react'
 import NewsItem from './NewsItem'
 import Spinner from './Spinner';
 import PropTypes from 'prop-types'
 import InfiniteScroll from 'react-infinite-scroll-component';
 
-function News(props) {
-
+function Search(props) {
     const [articles, setArticles] = useState([])
     const [loading, setLoading] = useState(false)
     const [page, setpage] = useState(1)
@@ -23,7 +21,7 @@ function News(props) {
     const setData = async () => {
         props.setProgress(40);
         setLoading(true);
-        let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
+        let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}&q=${props.search}`;
         // console.log(url);
         let data = await fetch(url);
         let parsedData = await data.json();
@@ -33,7 +31,7 @@ function News(props) {
         props.setProgress(100);
     }
     const updateData = async () => {
-        let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page + 1}&pageSize=${props.pageSize}`;
+        let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&apiKey=${props.apiKey}&page=${page + 1}&pageSize=${props.pageSize}&q=${props.search}`;
         // console.log(url);
         let data = await fetch(url);
         let parsedData = await data.json();
@@ -53,7 +51,7 @@ function News(props) {
     let { mode } = props;
     return (
 
-        <div className='container' >
+        <div className='container my-4' >
 
             <h1 className=' mx-3' style={{
                 color: (mode === 'light') ? 'black' : 'white',
@@ -64,7 +62,7 @@ function News(props) {
                 textAlign: 'center',
                 marginTop: '90px'
 
-            }}> <i><b> ---- 📰 TOP {props.category.toUpperCase()} HEADLINES 📰 ----- </b></i>  </h1>
+            }}> <i><b> ---- 📰 SEARCHED: "{props.search}" 📰 ----- </b></i>  </h1>
             {loading && <Spinner />}
 
             <InfiniteScroll
@@ -89,12 +87,10 @@ function News(props) {
 
         </div>
     )
-
 }
 
-export default News
-
-News.lengthdefaultProps = {
+export default Search
+Search.lengthdefaultProps = {
     country: 'in',
     pageSize: 16,
     category: 'general',
@@ -102,7 +98,7 @@ News.lengthdefaultProps = {
     page: 1
 }
 
-News.propTypes = {
+Search.propTypes = {
     country: PropTypes.string,
     pageSize: PropTypes.number,
     category: PropTypes.string
